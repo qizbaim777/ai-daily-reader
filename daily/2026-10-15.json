@@ -1,0 +1,73 @@
+{
+  "schema": 2,
+  "date": "2026-10-15",
+  "digest_id": "64739bac3a84d978",
+  "projects": [
+    {
+      "id": "1209966933",
+      "name": "morluto/rea",
+      "url": "https://github.com/morluto/rea",
+      "stars": 250692,
+      "category": "AI 智能体",
+      "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "description_zh": "从应用行为到本地二进制",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 53360,
+      "observed_days": 1
+    },
+    {
+      "id": "1414685342",
+      "name": "onehumanbeing/esp32-iphone-agent",
+      "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+      "stars": 2180,
+      "category": "AI 智能体",
+      "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak.",
+      "description_zh": "让一个AI模型使用一个真iPhone,配有7美元ESP32: AirPlay眼睛,USB HID手,任何OpenAI兼容的视觉模型. 没有Mac 没有开发商账户 没有越狱",
+      "reason": "近期创建，值得发现的新项目",
+      "new_project": true,
+      "growth": 775,
+      "observed_days": 1
+    },
+    {
+      "id": "1407873347",
+      "name": "LosaLosSantos/aurelio-finance",
+      "url": "https://github.com/LosaLosSantos/aurelio-finance",
+      "stars": 3370,
+      "category": "大模型工具",
+      "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ETFs, cash and debts on your own computer.",
+      "description_zh": "开源个人财务app与AI财务顾问:追踪您在自己电脑上的净值,投资,ETF,现金和债务.",
+      "reason": "近期创建，值得发现的新项目",
+      "new_project": true,
+      "growth": 267,
+      "observed_days": 1
+    },
+    {
+      "id": "1211139949",
+      "name": "tt-a1i/archify",
+      "url": "https://github.com/tt-a1i/archify",
+      "stars": 83730,
+      "category": "AI 编程",
+      "description": "Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.",
+      "description_zh": "把任何想法、计划或密码库变成一个美丽的互动图。 Claude Code、Codex 以及其他的代理技能",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 786,
+      "observed_days": 1
+    },
+    {
+      "id": "652712035",
+      "name": "lyogavin/airllm",
+      "url": "https://github.com/lyogavin/airllm",
+      "stars": 38733,
+      "category": "大模型工具",
+      "description": "AirLLM 2.8T LLM inference with single 4GB GPU",
+      "description_zh": "AirLLM 2.8T LLM 与单 4GB GPU推论",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 608,
+      "observed_days": 1
+    }
+  ],
+  "updates": []
+}
