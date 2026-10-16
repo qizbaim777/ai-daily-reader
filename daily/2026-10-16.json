@@ -1,0 +1,73 @@
+{
+  "schema": 2,
+  "date": "2026-10-16",
+  "digest_id": "62eac29cd686903d",
+  "projects": [
+    {
+      "id": "1397906178",
+      "name": "GanyuanRan/Autoloom",
+      "url": "https://github.com/GanyuanRan/Autoloom",
+      "stars": 998,
+      "category": "AI 编程",
+      "description": "AI coding with Aegis governance built into execution: baseline-aware changes, evidence-backed delivery. Free desktop client, your choice of model. 将哲科思维融入 AI 开发执行，让变更有依据、交付有证据。用创意编织现实。",
+      "description_zh": "将哲科思维融入 AI 开发执行，让变更有依据、交付有证据。 用创意编织现实。",
+      "reason": "近期创建，值得发现的新项目",
+      "new_project": true,
+      "growth": 548,
+      "observed_days": 1
+    },
+    {
+      "id": "1266797999",
+      "name": "DietrichGebert/ponytail",
+      "url": "https://github.com/DietrichGebert/ponytail",
+      "stars": 164624,
+      "category": "AI 智能体",
+      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
+      "description_zh": "让你的人工智能智能体觉得自己是 房间里最懒惰的高级德夫 最好的密码是你从未写过的密码",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 817,
+      "observed_days": 1
+    },
+    {
+      "id": "1201173969",
+      "name": "JuliusBrussee/caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "stars": 112769,
+      "category": "AI 编程",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "description_zh": "{\\fn黑体\\fs20\\shad2\\2aH82\\3aH20\\4aH33\\fscx95\\3cH592001\\be1}为什么在很少信使耍花招的时候 还要用很多信使呢 Viral技能+代用编码代理,通过像洞穴人一样说话来切割65%的代币.",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 796,
+      "observed_days": 1
+    },
+    {
+      "id": "770153867",
+      "name": "harry0703/MoneyPrinterTurbo",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "stars": 131804,
+      "category": "大模型工具",
+      "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
+      "description_zh": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 781,
+      "observed_days": 1
+    },
+    {
+      "id": "1185590488",
+      "name": "rohitg00/ai-engineering-from-scratch",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "stars": 69900,
+      "category": "AI 智能体",
+      "description": "Learn AI Engineering! Learn it. Build it. Ship it for others.",
+      "description_zh": "学人工智能工程! 学它。 建 it. 为他人运输.",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 634,
+      "observed_days": 1
+    }
+  ],
+  "updates": []
+}
