@@ -1,0 +1,81 @@
+{
+  "schema": 2,
+  "date": "2026-10-19",
+  "digest_id": "c23573287272690f",
+  "projects": [
+    {
+      "id": "1316470719",
+      "name": "hypit-ai/hypit",
+      "url": "https://github.com/hypit-ai/hypit",
+      "stars": 23530,
+      "category": "AI 智能体",
+      "description": "Clone any viral video with AI agents. Not just a script, the whole workflow: swap the face, the words, the B-roll, ship 100 variants in one command, and get your 100M views.",
+      "description_zh": "任何与AI 智能体的病毒录影带。 不只是一个脚本,整个工作流程:换脸,换字,B卷,在一个指令中运送100个变体,并获得你的100M视图.",
+      "reason": "近期创建，值得发现的新项目",
+      "new_project": true,
+      "growth": 458,
+      "observed_days": 1
+    },
+    {
+      "id": "1129940957",
+      "name": "headroomlabs-ai/headroom",
+      "url": "https://github.com/headroomlabs-ai/headroom",
+      "stars": 75903,
+      "category": "AI 编程",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+      "description_zh": "在达到LLM之前压缩工具输出,日志,文件和RAG块. 编码代理的代币减少20%,JSON的代币减少60-95%,答案相同. 库,代理,MCP服务器.",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 313,
+      "observed_days": 1
+    },
+    {
+      "id": "1354059245",
+      "name": "tigerless-labs/agent-memory",
+      "url": "https://github.com/tigerless-labs/agent-memory",
+      "stars": 4237,
+      "category": "AI 编程",
+      "description": "Long-term memory runtime for AI agents — plain Markdown as the source of truth, local ranked retrieval, and an independent sleep-time Manage layer. Claude Code and Codex share one store. No API key.",
+      "description_zh": "AI 智能体的长期内存运行时间——Plain Markdown作为真理的来源,本地排名检索,以及独立的睡眠时间管理层. Claude Code和Codex共用一家商店. 没有 API 密钥 。",
+      "reason": "近期创建，值得发现的新项目",
+      "new_project": true,
+      "growth": 161,
+      "observed_days": 1
+    },
+    {
+      "id": "1311850318",
+      "name": "AhmadHassan-BTed/OpenOPC-Shadow-Adapter",
+      "url": "https://github.com/AhmadHassan-BTed/OpenOPC-Shadow-Adapter",
+      "stars": 1151,
+      "category": "大模型工具",
+      "description": "Zero-modification Human-in-the-Loop adapter for OpenOPC's agentic DAG runtime.",
+      "description_zh": "零改型Human-in-the-Loop适配器,用于OpenOPC的代理DAG运行时间.",
+      "reason": "近期创建，值得发现的新项目",
+      "new_project": true,
+      "growth": 803,
+      "observed_days": 1
+    }
+  ],
+  "updates": [
+    {
+      "id": "1413021530",
+      "name": "rociiu/talorys",
+      "url": "https://github.com/rociiu/talorys",
+      "stars": 1326,
+      "category": "AI 智能体",
+      "description": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled reminders, deployed with one command: npx create-talorys@latest. Free-tier friendly, single-user, no telemetry.",
+      "description_zh": "你自己的Cloudflare账户的人工智能智能体 聊天,内存,任务,笔记和计划提醒,部署一个命令:npx创建-talorys@latest. 自由级友好,单用户,没有遥测.",
+      "reason": "首次正式发布 create-talorys@0.1.7",
+      "new_project": false,
+      "growth": null,
+      "observed_days": null,
+      "update": true,
+      "release_note_zh": "++ 已添加 - 个人访问符,所以外部工具和其他AI助手可以使用你的Talorys(#60) - 以网络推力方式发出通知(#28) - 聊天从意义上找到任务,笔记和自动化, 不只是用准确的字(#50,#53) - 自动化在创建后可以编辑(#52) - 改进自动化调度和运行历史(#63) - 记忆冲突可以与克莱夫决定;没有克莱夫,他们去审查(#22,#41) - 人工智能消费的托肯来源跟踪和具体模型估计数(#30) - GitHub Pages上的项目网站,由README链接,并安装",
+      "release": {
+        "tag": "create-talorys@0.1.7",
+        "url": "https://github.com/rociiu/talorys/releases/tag/create-talorys%400.1.7",
+        "published": "2026-10-19"
+      }
+    }
+  ]
+}
