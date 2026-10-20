@@ -1,0 +1,73 @@
+{
+  "schema": 2,
+  "date": "2026-10-20",
+  "digest_id": "58d58f39bf636c5b",
+  "projects": [
+    {
+      "id": "1421497958",
+      "name": "OpenMOSS/MOSS-Image",
+      "url": "https://github.com/OpenMOSS/MOSS-Image",
+      "stars": 950,
+      "category": "图像 / 视频",
+      "description": "Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, layout generation, and efficient fine-tuning.",
+      "description_zh": "MOSS-Image官方寄存器,是一款有高质量文本渲染,布局生成,高效微调的5B参数基底DiT模型.",
+      "reason": "近期创建，值得发现的新项目",
+      "new_project": true,
+      "growth": 252,
+      "observed_days": 1
+    },
+    {
+      "id": "1113573066",
+      "name": "hugohe3/ppt-master",
+      "url": "https://github.com/hugohe3/ppt-master",
+      "stars": 63883,
+      "category": "AI 智能体",
+      "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+      "description_zh": "AI将文档或话题变成真实的,原生的PowerPoint甲板——带有原生外形,过渡和动画,数据备份图表和按需表格,语音说明,以及支持您自己的.pptx模板. * 雨果贺",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 412,
+      "observed_days": 1
+    },
+    {
+      "id": "1136666433",
+      "name": "blader/humanizer",
+      "url": "https://github.com/blader/humanizer",
+      "stars": 58519,
+      "category": "AI 智能体",
+      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "description_zh": "从文本中删除 AI 生成的写作符号的代理技能",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 409,
+      "observed_days": 1
+    },
+    {
+      "id": "1201476594",
+      "name": "career-ops-hq/career-ops",
+      "url": "https://github.com/career-ops-hq/career-ops",
+      "stars": 75685,
+      "category": "AI 编程",
+      "description": "Open-source AI job search agent and job finder: scan job boards, score each job 1-5 against your CV before you apply, tailor an ATS-friendly resume and cover letter, get interview prep and a job application tracker. It helps you fill in each application; you press Submit. Runs locally in your AI coding CLI (Claude Code, Codex, OpenCode and more).",
+      "description_zh": "开源AI求职代理和找工作者:扫描工作板,在申请前根据您的CV对每份工作打分1-5,裁剪一个方便ATS的简历和封面信,获得面试准备和一个工作申请跟踪器. 它帮助您填写每个应用程序;您按“提交”键。 在您的 AI 编码 CLI (Claude Code, Codex, OpenCode 等) 中本地运行 。",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 189,
+      "observed_days": 1
+    },
+    {
+      "id": "1048065319",
+      "name": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "stars": 101810,
+      "category": "AI 编程",
+      "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "description_zh": "每届代理都持续上下文 – 抓住代理在会话中所做的一切,用AI压缩,并在未来会话中注入相关的上下文. 与Claude Code, OpenClaw, Codex, 双子座, Hermes, 副驾驶, OpenCode + More合作",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 184,
+      "observed_days": 1
+    }
+  ],
+  "updates": []
+}
