@@ -1,0 +1,81 @@
+{
+  "schema": 2,
+  "date": "2026-10-21",
+  "digest_id": "3cbe51cea478de53",
+  "projects": [
+    {
+      "id": "787076358",
+      "name": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "stars": 193495,
+      "category": "AI 智能体",
+      "description": "Supercharge your AI agents with data from the web and beyond. Building the library for superintelligence. 🔥",
+      "description_zh": "超量充电你的人工智能代理 从网络和外部的数据。 建设超智能图书馆. 🔥",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 390,
+      "observed_days": 1
+    },
+    {
+      "id": "1212503250",
+      "name": "citrolabs/ego-lite",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "stars": 18169,
+      "category": "AI 编程",
+      "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+      "description_zh": "AI 智能体运行浏览器自动化的最快浏览器,用于与您的AI 智能体共享登录浏览器状态,如Codex或Claude Code,而不打扰您. 零成本,零配置.",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 420,
+      "observed_days": 1
+    },
+    {
+      "id": "1382865521",
+      "name": "nano-muse/nanoMuse",
+      "url": "https://github.com/nano-muse/nanoMuse",
+      "stars": 1734,
+      "category": "AI 智能体",
+      "description": "nanoMuse: an open-source personal agent for every device you own. One agent with a name and a look of its own that does things, keeps working while the app is closed, remembers you, and asks before anything you cannot undo. On Android, iPhone and iPad, Windows / macOS / Linux and in the browser; your phone's screen and your computer as its hands.",
+      "description_zh": "纳米Muse:用于你拥有的每个设备的开源个人代理. 一个有自己名字和外表的智能体 做一些事情,继续工作 当应用程序关闭, 记得你, 并询问任何你无法撤销的事情。 在Android上,iPhone和iPad,Windows / macOS / Linux和浏览器中;您的手机屏幕和计算机作为它的手.",
+      "reason": "近期创建，值得发现的新项目",
+      "new_project": true,
+      "growth": 209,
+      "observed_days": 1
+    },
+    {
+      "id": "599547518",
+      "name": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "stars": 94437,
+      "category": "大模型工具",
+      "description": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "description_zh": "LLMs 的高通量和内存效率推论及服务引擎",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 280,
+      "observed_days": 1
+    }
+  ],
+  "updates": [
+    {
+      "id": "1048065319",
+      "name": "thedotmack/claude-mem",
+      "url": "https://github.com/thedotmack/claude-mem",
+      "stars": 101964,
+      "category": "AI 编程",
+      "description": "Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Claude Code, OpenClaw, Codex, Gemini, Hermes, Copilot, OpenCode + More",
+      "description_zh": "每届代理都持续上下文 – 抓住代理在会话中所做的一切,用AI压缩,并在未来会话中注入相关的上下文. 与Claude Code, OpenClaw, Codex, 双子座, Hermes, 副驾驶, OpenCode + More合作",
+      "reason": "发布大版本 v15.0.1",
+      "new_project": false,
+      "growth": null,
+      "observed_days": null,
+      "update": true,
+      "release_note_zh": "在合并的项目中保持智能召回的一致性 智能搜索,时序上下文,以及选定的观察细节现在使用相同的检出项目范围. 在接下来的两个步骤中,通过一个合并的别名项目发现的观察仍然可用,而不是错误地返回“找不到”。 - 解析同一工程,读取搜索结果的密钥、明确的时间表锚地、选定查询的时间表锚地,并读取选定的观察。 - 保持所采用记录的可见性,同时排除无关或未采用的记录,并尊重平台源过滤器。 - 保护智能默认",
+      "release": {
+        "tag": "v15.0.1",
+        "url": "https://github.com/thedotmack/claude-mem/releases/tag/v15.0.1",
+        "published": "2026-10-20"
+      }
+    }
+  ]
+}
