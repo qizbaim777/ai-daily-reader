@@ -1,0 +1,73 @@
+{
+  "schema": 2,
+  "date": "2026-10-22",
+  "digest_id": "c2737e2e1c21ecaf",
+  "projects": [
+    {
+      "id": "1284653133",
+      "name": "xerj-org/xerj",
+      "url": "https://github.com/xerj-org/xerj",
+      "stars": 12793,
+      "category": "AI 智能体",
+      "description": "Local-first search engine and MCP server for AI agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-text, vector and hybrid search, code search without grep, agent memory and RAG. Elasticsearch-compatible API; Corpus Hub serves hundreds of reference memory corpora.",
+      "description_zh": "本地第一搜索引擎和用于AI 智能体的MCP服务器. 一个Rust二进制索引代码,docs,日志,JSONL/CSV和PDF用于BM25全文,矢量和混合搜索,没有grep的代码搜索,代理内存和RAG. 弹性搜索兼容API;Corpus Hub服务于数百个参考内存corpora.",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 359,
+      "observed_days": 1
+    },
+    {
+      "id": "909213664",
+      "name": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "stars": 112581,
+      "category": "AI 智能体",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "description_zh": "贸易代理:多种代理LLM 金融交易框架",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 236,
+      "observed_days": 1
+    },
+    {
+      "id": "1134426800",
+      "name": "sickn33/agentic-awesome-skills",
+      "url": "https://github.com/sickn33/agentic-awesome-skills",
+      "stars": 48272,
+      "category": "AI 编程",
+      "description": "AAS Core is the local, agent-first control plane for complete catalog discovery, agent-owned selection, stack validation, and planning, backed by 2,600+ agentic skills. Includes CLI, local MCP, catalog, plugins, and Workbench.",
+      "description_zh": "AAS Core是本地,代理第一控制平面,用于完整的目录发现,代理自主选择,堆栈验证,以及规划,辅以2,600+代理技能. 包括CLI,本地MCP,目录,插件,以及Workbench.",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 179,
+      "observed_days": 1
+    },
+    {
+      "id": "633262635",
+      "name": "onyx-dot-app/onyx",
+      "url": "https://github.com/onyx-dot-app/onyx",
+      "stars": 32773,
+      "category": "知识库 / RAG",
+      "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+      "description_zh": "开源 AI 平台 - AI Chat 具有高级功能,可与每个 LLM 工作",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 163,
+      "observed_days": 1
+    },
+    {
+      "id": "658928958",
+      "name": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "stars": 184214,
+      "category": "大模型工具",
+      "description": "Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.",
+      "description_zh": "与Kimi,GLM,MiniMax,DeepSeek,gpt-oss,Quen,Gemma等型号一起起来运行.",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 144,
+      "observed_days": 1
+    }
+  ],
+  "updates": []
+}
