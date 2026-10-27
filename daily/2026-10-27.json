@@ -1,0 +1,73 @@
+{
+  "schema": 2,
+  "date": "2026-10-27",
+  "digest_id": "a37ba3e4c17e221e",
+  "projects": [
+    {
+      "id": "1431851693",
+      "name": "rddmwmddr/android-ad-cleaner",
+      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+      "stars": 1905,
+      "category": "AI 智能体",
+      "description": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。",
+      "description_zh": "关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。 不 root，可还原，支持 AI 智能体一键执行。",
+      "reason": "近期创建，值得发现的新项目",
+      "new_project": true,
+      "growth": 1090,
+      "observed_days": 1
+    },
+    {
+      "id": "1345838715",
+      "name": "Derpyu520/qq-bridge",
+      "url": "https://github.com/Derpyu520/qq-bridge",
+      "stars": 2845,
+      "category": "AI 智能体",
+      "description": "Bridge between QQ (SnowLuma OneBot v11) and DeepSeek Harness agents: social simulation, safe MCP tools, slang learning and more.",
+      "description_zh": "QQ(SnowLuma OneBot v11)和DeepSeek Harness智能体之间的桥梁:社会模拟,安全的MCP工具,slang学习等等.",
+      "reason": "近期创建，值得发现的新项目",
+      "new_project": true,
+      "growth": 390,
+      "observed_days": 1
+    },
+    {
+      "id": "998732712",
+      "name": "StarTrail-org/LEANN",
+      "url": "https://github.com/StarTrail-org/LEANN",
+      "stars": 13321,
+      "category": "知识库 / RAG",
+      "description": "[MLsys2026 Best Paper]: https://arxiv.org/abs/2506.08276. RAG on Everything with LEANN. Enjoy 97% storage savings while running a fast, accurate, and 100% private RAG application on your personal device.",
+      "description_zh": "[MLsys2026最佳论文]:https://arxiv.org/abs/2506.08276. 所有与LEANN的RAG。 享受97%的存储节约,同时运行一个快速,准确,100%的私人RAG应用程序在您的个人设备上.",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 215,
+      "observed_days": 1
+    },
+    {
+      "id": "1391814933",
+      "name": "dagoSte/squadra",
+      "url": "https://github.com/dagoSte/squadra",
+      "stars": 688,
+      "category": "AI 编程",
+      "description": "Coordinate Claude, Codex and Cursor windows with shared tasks, acknowledgements, prechecks, parallel tests, source-bound proofs and independent review. Built-in skills recall lessons, simplify code and forecast work. Track progress, decisions and evidence in a bilingual local dashboard, with MCP plugins. Browse skills and verified security audits.",
+      "description_zh": "坐标 Claude, Codex 和 Cursor 窗口,有共享的任务,确认,预检查,并行测试,源码验证和独立审查. 内建技能召回经验教训,简化代码和预测工作. 在双语本地仪表板中跟踪进度,决定和证据,并配有MCP插件. 浏览技能和核实的安全审计。",
+      "reason": "近期创建，值得发现的新项目",
+      "new_project": true,
+      "growth": 138,
+      "observed_days": 1
+    },
+    {
+      "id": "1139971460",
+      "name": "rtk-ai/rtk",
+      "url": "https://github.com/rtk-ai/rtk",
+      "stars": 84656,
+      "category": "AI 编程",
+      "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
+      "description_zh": "在常见的dev命令上将LLM令牌消耗减少60-90%的CLI代理. 单一 Rust 二进制, 零依赖",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 117,
+      "observed_days": 1
+    }
+  ],
+  "updates": []
+}
