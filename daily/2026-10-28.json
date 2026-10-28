@@ -1,0 +1,81 @@
+{
+  "schema": 2,
+  "date": "2026-10-28",
+  "digest_id": "40931b20687b800d",
+  "projects": [
+    {
+      "id": "1403649056",
+      "name": "AienTech/dossier",
+      "url": "https://github.com/AienTech/dossier",
+      "stars": 1507,
+      "category": "大模型工具",
+      "description": "A self-hosted job search app that writes tailored resumes and cover letters from your profile.",
+      "description_zh": "一个自编自导的求职应用程序,该应用程序会撰写定制的简历并覆盖您简介中的信件.",
+      "reason": "近期创建，值得发现的新项目",
+      "new_project": true,
+      "growth": 978,
+      "observed_days": 1
+    },
+    {
+      "id": "742244656",
+      "name": "agentscope-ai/agentscope",
+      "url": "https://github.com/agentscope-ai/agentscope",
+      "stars": 34461,
+      "category": "AI 智能体",
+      "description": "Build and run agents you can see, understand and trust.",
+      "description_zh": "建立和运行代理 你可以看到,理解和信任。",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 244,
+      "observed_days": 1
+    },
+    {
+      "id": "1061041576",
+      "name": "p-e-w/heretic",
+      "url": "https://github.com/p-e-w/heretic",
+      "stars": 36806,
+      "category": "大模型工具",
+      "description": "Fully automatic censorship removal for language models",
+      "description_zh": "完全自动取消语言模型的审查",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 230,
+      "observed_days": 1
+    },
+    {
+      "id": "1253138201",
+      "name": "StarTrail-org/PixelRAG",
+      "url": "https://github.com/StarTrail-org/PixelRAG",
+      "stars": 10631,
+      "category": "知识库 / RAG",
+      "description": "https://arxiv.org/abs/2606.28344. The end of web parsing. The beginning of scalable pixel-native search. link: https://pixelrag.ai/",
+      "description_zh": "https://arxiv.org/abs/2606.28344 (英语). 网络解析的结束. 可缩放像素本土搜索的开始. 链接:https://pixelrag.ai/",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 256,
+      "observed_days": 1
+    }
+  ],
+  "updates": [
+    {
+      "id": "1368596582",
+      "name": "google/elephant-goldfish-model",
+      "url": "https://github.com/google/elephant-goldfish-model",
+      "stars": 3293,
+      "category": "AI 智能体",
+      "description": "Open-source skills for designing and reviewing software with AI agents",
+      "description_zh": "与AI 智能体设计和审查软件的开源技能",
+      "reason": "首次正式发布 v0.1.0",
+      "new_project": false,
+      "growth": null,
+      "observed_days": null,
+      "update": true,
+      "release_note_zh": "大象-金鱼模型(EGM)帮助您将一个想法变成一个规格,然后在执行前用新内容审查员测试设计. 起草人持有项目背景. 评论员在没有先前对话的情况下审查该文件及其参考文献。 你解决权衡 批准设计。 ** 这是EGM的第一个标记发布。 ** Exact release-ZIP主机的验证仍有待进行。 这一释放尚未准备好用于稳定释放索赔。 # 包含什么 # # What's including # - ** 爆炸和具体说明:** 以`脑风暴 ' 对一个想法提出质疑,然后建立一个规格一节",
+      "release": {
+        "tag": "v0.1.0",
+        "url": "https://github.com/google/elephant-goldfish-model/releases/tag/v0.1.0",
+        "published": "2026-10-27"
+      }
+    }
+  ]
+}
