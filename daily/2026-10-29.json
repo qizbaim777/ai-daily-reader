@@ -1,0 +1,73 @@
+{
+  "schema": 2,
+  "date": "2026-10-29",
+  "digest_id": "38958474c662c977",
+  "projects": [
+    {
+      "id": "1155576139",
+      "name": "rocketride-org/rocketride-server",
+      "url": "https://github.com/rocketride-org/rocketride-server",
+      "stars": 18450,
+      "category": "AI 智能体",
+      "description": "High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale LLM workflows with 13+ model providers, 8+ vector databases, and agent orchestration, all from your IDE. Includes VS Code extension, TypeScript/Python SDKs, and Docker deployment.",
+      "description_zh": "具有C++核心和50+Python扩展节点的高性能AI管道发动机. 与 13+ 模型提供者、 8+ 矢量数据库以及代理管弦乐建立、调试和缩放 LLM 工作流程,全部来自您的 IDE 。 包括VS代码扩展,TypeScript/Python SDKs,以及Docker部署.",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 699,
+      "observed_days": 1
+    },
+    {
+      "id": "1195243030",
+      "name": "walkinglabs/learn-harness-engineering",
+      "url": "https://github.com/walkinglabs/learn-harness-engineering",
+      "stars": 22170,
+      "category": "AI 智能体",
+      "description": "Harness engineering beginner tutorial, from 0 to 1",
+      "description_zh": "调理工程初级导师课程,从 0 到 1",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 376,
+      "observed_days": 1
+    },
+    {
+      "id": "1435425970",
+      "name": "patch-gg/anymove",
+      "url": "https://github.com/patch-gg/anymove",
+      "stars": 356,
+      "category": "生成式 AI",
+      "description": "Motion capture for any creature from one AI video: two cameras in one frame, a DINOv2 joint reader, the rig fitted in both views, a GLB out.",
+      "description_zh": "动感捕捉任何生物 从一个AI视频:两个摄像头在一个框架, 一个DINov2联合读取器, 安装在两个视图的钻机, 一个GLB出来。",
+      "reason": "近期创建，值得发现的新项目",
+      "new_project": true,
+      "growth": 164,
+      "observed_days": 1
+    },
+    {
+      "id": "626805178",
+      "name": "langgenius/dify",
+      "url": "https://github.com/langgenius/dify",
+      "stars": 159848,
+      "category": "大模型工具",
+      "description": "Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without rebuilding the stack.",
+      "description_zh": "构建代理工作流程,RAG管道,在一个协作工作空间上拥有丰富的AI模型和工具支持. 部署在云,VPC上,或自行托管,所以团队从原型转向生产而不重建堆.",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 117,
+      "observed_days": 1
+    },
+    {
+      "id": "701547123",
+      "name": "open-webui/open-webui",
+      "url": "https://github.com/open-webui/open-webui",
+      "stars": 157085,
+      "category": "知识库 / RAG",
+      "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
+      "description_zh": "方便用户的AI接口(支持Ollama,OpenAI API,...)",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 109,
+      "observed_days": 1
+    }
+  ],
+  "updates": []
+}
