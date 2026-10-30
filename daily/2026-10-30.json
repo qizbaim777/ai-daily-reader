@@ -1,0 +1,73 @@
+{
+  "schema": 2,
+  "date": "2026-10-30",
+  "digest_id": "db31045d87162e68",
+  "projects": [
+    {
+      "id": "1436502942",
+      "name": "MiniMax-AI/mcode-stack",
+      "url": "https://github.com/MiniMax-AI/mcode-stack",
+      "stars": 413,
+      "category": "AI 编程",
+      "description": "The workflows and skills the MiniMax Code team uses to build MiniMax Code. Open source, install and use.",
+      "description_zh": "MiniMax代码团队用于构建MiniMax代码的工作流程和技能. 开源,安装和使用.",
+      "reason": "近期创建，值得发现的新项目",
+      "new_project": true,
+      "growth": 205,
+      "observed_days": 1
+    },
+    {
+      "id": "1201656210",
+      "name": "MemPalace/mempalace",
+      "url": "https://github.com/MemPalace/mempalace",
+      "stars": 60034,
+      "category": "大模型工具",
+      "description": "The best-benchmarked open-source AI memory system. And it's free.",
+      "description_zh": "最有基准标记的开源AI内存系统. 并是闲相.",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 264,
+      "observed_days": 1
+    },
+    {
+      "id": "1423996774",
+      "name": "langchain-ai/design-agent",
+      "url": "https://github.com/langchain-ai/design-agent",
+      "stars": 470,
+      "category": "AI 智能体",
+      "description": "Open-source design agent: on-brand stills, decks, diagrams, charts and motion graphics from a chat thread, built on Deep Agents.",
+      "description_zh": "开源设计代理:从聊天线上取出\"活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活活",
+      "reason": "近期创建，值得发现的新项目",
+      "new_project": true,
+      "growth": 158,
+      "observed_days": 1
+    },
+    {
+      "id": "1435672472",
+      "name": "haydenschmitty/floorplan",
+      "url": "https://github.com/haydenschmitty/floorplan",
+      "stars": 392,
+      "category": "AI 编程",
+      "description": "See how your app actually fits together. An interactive, plain-English map of your codebase, drawn by Claude or Codex.",
+      "description_zh": "看看你的应用如何真正结合在一起。 由克洛德或克洛德克思绘制的你代码库的交互式平版英语地图.",
+      "reason": "近期创建，值得发现的新项目",
+      "new_project": true,
+      "growth": 134,
+      "observed_days": 1
+    },
+    {
+      "id": "1052050442",
+      "name": "datawhalechina/hello-agents",
+      "url": "https://github.com/datawhalechina/hello-agents",
+      "stars": 85292,
+      "category": "AI 智能体",
+      "description": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+      "description_zh": "📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 159,
+      "observed_days": 1
+    }
+  ],
+  "updates": []
+}
