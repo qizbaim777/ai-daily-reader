@@ -1,0 +1,73 @@
+{
+  "schema": 2,
+  "date": "2026-10-31",
+  "digest_id": "c51c3d2dee4e96e0",
+  "projects": [
+    {
+      "id": "1293238217",
+      "name": "JetBrains/thinkrail",
+      "url": "https://github.com/JetBrains/thinkrail",
+      "stars": 6582,
+      "category": "AI 编程",
+      "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
+      "description_zh": "以轻量级的、真实的 IDE 与 pi 的 Vibe 代码自定义,",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 568,
+      "observed_days": 1
+    },
+    {
+      "id": "895508656",
+      "name": "microsoft/ai-agents-for-beginners",
+      "url": "https://github.com/microsoft/ai-agents-for-beginners",
+      "stars": 78366,
+      "category": "AI 智能体",
+      "description": "18 Lessons to Get Started Building AI Agents",
+      "description_zh": "18 开始建造AI 智能体的教训",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 214,
+      "observed_days": 1
+    },
+    {
+      "id": "1203558071",
+      "name": "TencentCloud/TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "stars": 30268,
+      "category": "AI 智能体",
+      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+      "description_zh": "TencentDB Agent Memory是AI Agents的团队级内存中枢——将对话,docs,和代码变为四个可重复使用的内存资产(Chat Memory,Skill,LLM-Wiki,Code-Graph),这些资产在代理和框架之间被管理,共享和装备.",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 151,
+      "observed_days": 1
+    },
+    {
+      "id": "1435438541",
+      "name": "didi/helixharness",
+      "url": "https://github.com/didi/helixharness",
+      "stars": 180,
+      "category": "AI 编程",
+      "description": "HelixHarness 提供完整的 AI Coding 工程化基础能力，还支持不同企业和团队结合自身的业务知识、工程规范和研发流程，持续构建和演进属于自己的专属 Harness",
+      "description_zh": "HelixHarness 提供完整的 AI Coding 工程化基础能力，还支持不同企业和团队结合自身的业务知识、工程规范和研发流程，持续构建和演进属于自己的专属 Harness",
+      "reason": "近期创建，值得发现的新项目",
+      "new_project": true,
+      "growth": 115,
+      "observed_days": 1
+    },
+    {
+      "id": "655806940",
+      "name": "microsoft/generative-ai-for-beginners",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "stars": 122522,
+      "category": "生成式 AI",
+      "description": "21 Lessons, Get Started Building with Generative AI ",
+      "description_zh": "21 教训,用Generative AI开始建造",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 94,
+      "observed_days": 1
+    }
+  ],
+  "updates": []
+}
