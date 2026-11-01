@@ -1,0 +1,73 @@
+{
+  "schema": 2,
+  "date": "2026-11-01",
+  "digest_id": "3c4536c137b0265f",
+  "projects": [
+    {
+      "id": "1438540053",
+      "name": "wangzan101/Mika",
+      "url": "https://github.com/wangzan101/Mika",
+      "stars": 2747,
+      "category": "AI 智能体",
+      "description": "Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。An on-device AI agent for Android that operates apps and the web to get things done for you.",
+      "description_zh": "Mika — 你手机上的私人 AI 助理，替你操作 App、上网、把事办成。",
+      "reason": "近期创建，值得发现的新项目",
+      "new_project": true,
+      "growth": 1416,
+      "observed_days": 1
+    },
+    {
+      "id": "1432967563",
+      "name": "ccch1mneyyy/dsh-Go",
+      "url": "https://github.com/ccch1mneyyy/dsh-Go",
+      "stars": 3616,
+      "category": "AI 智能体",
+      "description": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+      "description_zh": "dsh-go — DeepSeek Harness 装进口袋：手机本机运行，也能遥控你的电脑。",
+      "reason": "近期创建，值得发现的新项目",
+      "new_project": true,
+      "growth": 1110,
+      "observed_days": 1
+    },
+    {
+      "id": "771302083",
+      "name": "OpenHands/OpenHands",
+      "url": "https://github.com/OpenHands/OpenHands",
+      "stars": 92370,
+      "category": "大模型工具",
+      "description": "🙌 OpenHands: AI-Driven Development",
+      "description_zh": "• OpenHands:AI驱动开发",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 79,
+      "observed_days": 1
+    },
+    {
+      "id": "953683578",
+      "name": "oraios/serena",
+      "url": "https://github.com/oraios/serena",
+      "stars": 30955,
+      "category": "AI 编程",
+      "description": "A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent",
+      "description_zh": "用于编码的强大的 MCP 工具包, 提供语义检索和编辑能力 - 您代理机的 IDE",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 75,
+      "observed_days": 1
+    },
+    {
+      "id": "1198124295",
+      "name": "mvschwarz/openrig",
+      "url": "https://github.com/mvschwarz/openrig",
+      "stars": 8484,
+      "category": "AI 编程",
+      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+      "description_zh": "建立你自己的Claude Code, Codex和Pi的智能体网络:具有角色,共享上下文和拥有自己的工作的持久团队.",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 105,
+      "observed_days": 1
+    }
+  ],
+  "updates": []
+}
