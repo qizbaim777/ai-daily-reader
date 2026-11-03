@@ -1,0 +1,73 @@
+{
+  "schema": 2,
+  "date": "2026-11-03",
+  "digest_id": "811a207e08ef5842",
+  "projects": [
+    {
+      "id": "1435475558",
+      "name": "modelflare-ai/AnyModelBot",
+      "url": "https://github.com/modelflare-ai/AnyModelBot",
+      "stars": 1358,
+      "category": "AI 智能体",
+      "description": "🤖 Open-source, local-first alternative to Grok Bot, OpenAI dots and Claude Duet. Your own AI bots on any model: GPT, Claude, Gemini, Grok, DeepSeek, Kimi, GLM and 70+ more through one Modelflare key. Reach them in the app, WeChat or Feishu; they remember you, work in the background, run commands and use your computer. Pay per use.",
+      "description_zh": "QQ开放源代码,本地首个替代Grok Bot,OpenAI点和克洛德 Dut. 任何型号上的你自己的AI bots:GPT,克洛德,双子座,格罗克,DeepSeek,Kimi,GLM和多出70+通过一个Modelflare键. 在应用中联系他们 WeChat或Feishu;他们记得你,在背景中工作,运行命令和使用你的计算机. 按用途付费。",
+      "reason": "近期创建，值得发现的新项目",
+      "new_project": true,
+      "growth": 911,
+      "observed_days": 1
+    },
+    {
+      "id": "1423942292",
+      "name": "sahenjp/RustXNG",
+      "url": "https://github.com/sahenjp/RustXNG",
+      "stars": 712,
+      "category": "AI 智能体",
+      "description": "Self-hosted metasearch and grounding engine for AI agents, based on SearXNG. Rust, JSON API, optional page text.",
+      "description_zh": "以SearXNG为基础,为AI 智能体自备的元搜索和地平引擎. Rust, JSON API, 可选的页面文本.",
+      "reason": "近期创建，值得发现的新项目",
+      "new_project": true,
+      "growth": 343,
+      "observed_days": 1
+    },
+    {
+      "id": "679506386",
+      "name": "janhq/jan",
+      "url": "https://github.com/janhq/jan",
+      "stars": 45341,
+      "category": "大模型工具",
+      "description": "Jan is an open source alternative to ChatGPT that runs 100% offline on your computer.",
+      "description_zh": "Jan是ChatGPT的开源替代品,在您的计算机上运行100%离线.",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 99,
+      "observed_days": 1
+    },
+    {
+      "id": "1377707120",
+      "name": "feimacode/open-design-agent-kit",
+      "url": "https://github.com/feimacode/open-design-agent-kit",
+      "stars": 899,
+      "category": "AI 编程",
+      "description": "Pro-grade UI design built into the coding agent you already use — GitHub Copilot Chat, Claude Code, Codex, Cursor. 270+ design skills, 150+ brand design systems, 160+ remixable examples. No desktop app, no daemon, no API keys — just files in your repo.",
+      "description_zh": "预级UI设计建入了您已经使用的编码代理——GitHub Copilot Chat, Claude Code, Codex, Cursor. 270+设计技能,150+品牌设计系统,160+可再混合实例. 没有桌面应用程序, 没有守护进程, 没有 API 密钥 —— 只有文件在您的 repo 中 。",
+      "reason": "近期创建，值得发现的新项目",
+      "new_project": true,
+      "growth": 126,
+      "observed_days": 1
+    },
+    {
+      "id": "1010681419",
+      "name": "shareAI-lab/learn-claude-code",
+      "url": "https://github.com/shareAI-lab/learn-claude-code",
+      "stars": 79768,
+      "category": "AI 编程",
+      "description": "Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1",
+      "description_zh": "巴什是所有你需要的, 一个纳米圆形的代码, 像“代理吊带”, 建造于0到1",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 81,
+      "observed_days": 1
+    }
+  ],
+  "updates": []
+}
