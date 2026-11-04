@@ -1,0 +1,73 @@
+{
+  "schema": 2,
+  "date": "2026-11-04",
+  "digest_id": "84c0bd22e6bd2bbc",
+  "projects": [
+    {
+      "id": "1202410617",
+      "name": "FailproofAI/failproofai",
+      "url": "https://github.com/FailproofAI/failproofai",
+      "stars": 7774,
+      "category": "AI 智能体",
+      "description": "Observability and enforcement for AI agent harnesses. Capture every run and runtime reliability with policy enforcement.  ",
+      "description_zh": "AI 智能体机的可观察性和执法性. 掌握每一次运行和运行的可靠性 与政策执行。",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 339,
+      "observed_days": 1
+    },
+    {
+      "id": "979560403",
+      "name": "superplanehq/superplane",
+      "url": "https://github.com/superplanehq/superplane",
+      "stars": 8758,
+      "category": "AI 编程",
+      "description": "Open source factory for one-shot engineering",
+      "description_zh": "一发工程开源厂",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 227,
+      "observed_days": 1
+    },
+    {
+      "id": "1331882604",
+      "name": "scenario-labs/skills",
+      "url": "https://github.com/scenario-labs/skills",
+      "stars": 1998,
+      "category": "AI 智能体",
+      "description": "Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity.",
+      "description_zh": "从任何AI 智能体中获取制作准备的图像,视频,音频和3D:通过\"情景MCP\"来选择正确的模式,在支出前定价,并保持人物和品牌一致性的技能,以及驱动Blender,Maya,ZBrush,unreal,和Unity的专家团队.",
+      "reason": "近期创建，值得发现的新项目",
+      "new_project": true,
+      "growth": 355,
+      "observed_days": 1
+    },
+    {
+      "id": "1216954187",
+      "name": "ConardLi/garden-skills",
+      "url": "https://github.com/ConardLi/garden-skills",
+      "stars": 13664,
+      "category": "知识库 / RAG",
+      "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
+      "description_zh": "ConardLi的开源技能集,以网络设计,知识检索,图像生成等为特色.",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 139,
+      "observed_days": 1
+    },
+    {
+      "id": "638513786",
+      "name": "Anil-matcha/Open-Generative-AI",
+      "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+      "stars": 32173,
+      "category": "图像 / 视频",
+      "description": "Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 600+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+      "description_zh": "AI视频平台的不受限制的开源替代品——免费AI图像和视频生成工作室,配有600+模型(Flux,Midjourney,克林克,Sora,Veo). 无内容过滤器 。 自办,麻省理工获得执照.",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 89,
+      "observed_days": 1
+    }
+  ],
+  "updates": []
+}
