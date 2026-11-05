@@ -1,0 +1,73 @@
+{
+  "schema": 2,
+  "date": "2026-11-05",
+  "digest_id": "419899de6c9efbb2",
+  "projects": [
+    {
+      "id": "1439885901",
+      "name": "N1nEmAn/sapper-v2",
+      "url": "https://github.com/N1nEmAn/sapper-v2",
+      "stars": 852,
+      "category": "AI 智能体",
+      "description": "Autonomous pentest legion — AI commander + worker swarm + layered fact-intent graph. 3rd Tencent Intelligent Attack-Defense online champion (634 teams · 8h unattended · 1B tokens beat 4.5B). The Nüwa Test: give AIs Create/Language/History, let a civilization grow.",
+      "description_zh": "自主笔触军团——AI指挥官+工人群+分层事实图. 第3届\"十能\"智能攻克-防守在线冠军(634支球队 ^ 8h无人出场 ^ 1B令牌击败了4.5B). 纽瓦测试:给予AIs Create/Language/History,让文明成长.",
+      "reason": "近期创建，值得发现的新项目",
+      "new_project": true,
+      "growth": 191,
+      "observed_days": 1
+    },
+    {
+      "id": "1145022970",
+      "name": "HBAI-Ltd/Toonflow-app",
+      "url": "https://github.com/HBAI-Ltd/Toonflow-app",
+      "stars": 20510,
+      "category": "AI 智能体",
+      "description": "短剧、漫剧制作工具 Toonflow：开源 AI 视频创作平台，集成剧本创作、智能分镜、角色与场景资产管理、图像生成和视频生成。融合无限画布、AI Agent 与可视化工作流，支持本地部署、自选模型、跨平台客户端、MCP 与插件扩展。Open-source AI short drama and motion comic creation tool with an infinite canvas, AI agents, storyboarding, image and video generation. Self-hosted and extensible, with a canvas-based approach similar to LibTV and TapNow.",
+      "description_zh": "短剧、漫剧制作工具 Toonflow：开源 AI 视频创作平台，集成剧本创作、智能分镜、角色与场景资产管理、图像生成和视频生成。 融合无限画布、AI Agent 与可视化工作流，支持本地部署、自选模型、跨平台客户端、MCP 与插件扩展。",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 172,
+      "observed_days": 1
+    },
+    {
+      "id": "1321408165",
+      "name": "kaomei/stickman-video-director",
+      "url": "https://github.com/kaomei/stickman-video-director",
+      "stars": 4277,
+      "category": "图像 / 视频",
+      "description": "Turn any script into viral, multi-style animated stickman videos for Faceless YouTube Channels. Automate visuals, voiceover, captions & SFX. 100% Free & Open-Source.",
+      "description_zh": "将任何剧本变成病毒,多风格的动画\"粘贴\"视频,用于Faceless YouTube Channels. 自动显示视觉、语音、字幕和SFX。 100%自由与开源.",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 207,
+      "observed_days": 1
+    },
+    {
+      "id": "671269505",
+      "name": "BerriAI/litellm",
+      "url": "https://github.com/BerriAI/litellm",
+      "stars": 62716,
+      "category": "大模型工具",
+      "description": "The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM]",
+      "description_zh": "最快,最亮的AI网关。 与Python SDK相接的锈芯. 使用OpenAI(或原生)格式调用100+LLM API,其格式包括成本跟踪、护栏、负载平衡和记录[Bedrock、Azure、OpenAI、Anthropic、OpenAI、VertexAI、vLLM、Nvidia NIM]",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 68,
+      "observed_days": 1
+    },
+    {
+      "id": "976921297",
+      "name": "asgeirtj/system_prompts_leaks",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "stars": 70774,
+      "category": "AI 编程",
+      "description": "Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Grok Bot, Cursor, Kimi and more! Updated regularly.",
+      "description_zh": "来自Anthropic的文档系统提示 - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. (美国英语). Google - 双子座 3.8 Flash, 3.1 Pro, Antigravity. 互联网档案馆的存檔,存档日期2013-12-21. XAI - Grok, Grok Bot, Cursor, Kimi 等多点! 定期更新。",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 61,
+      "observed_days": 1
+    }
+  ],
+  "updates": []
+}
