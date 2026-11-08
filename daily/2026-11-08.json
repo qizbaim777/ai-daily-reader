@@ -1,0 +1,73 @@
+{
+  "schema": 2,
+  "date": "2026-11-08",
+  "digest_id": "7ba020a7854654b1",
+  "projects": [
+    {
+      "id": "1444005452",
+      "name": "Sandflow-ai/sand3d",
+      "url": "https://github.com/Sandflow-ai/sand3d",
+      "stars": 1055,
+      "category": "大模型工具",
+      "description": "3D modeling in Python, built for LLMs.",
+      "description_zh": "为LLMS所建的Python三维模型.",
+      "reason": "近期创建，值得发现的新项目",
+      "new_project": true,
+      "growth": 259,
+      "observed_days": 1
+    },
+    {
+      "id": "1131513930",
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "stars": 67752,
+      "category": "AI 智能体",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "description_zh": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 103,
+      "observed_days": 1
+    },
+    {
+      "id": "1179388779",
+      "name": "ethanplusai/sellbird",
+      "url": "https://github.com/ethanplusai/sellbird",
+      "stars": 4800,
+      "category": "AI 智能体",
+      "description": "Sellbird (formerly Harvey): the open-source outreach platform that runs on your Claude or ChatGPT plan. Finds companies and decision makers, verifies emails, writes personal cold email, sends it and handles the replies.",
+      "description_zh": "Sellbird(前作\"哈维\"):运行在克洛德或ChatGPT计划中的开源拓展平台. 寻找公司和决策者、核实电子邮件、写个人冷酷电子邮件、发送电子邮件和处理答复。",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 182,
+      "observed_days": 1
+    },
+    {
+      "id": "1128025899",
+      "name": "decolua/9router",
+      "url": "https://github.com/decolua/9router",
+      "stars": 32084,
+      "category": "AI 编程",
+      "description": "Unlimited FREE AI coding. Connect Claude Code, Codex, Cursor, Cline, Copilot, Antigravity to FREE Claude/GPT/Gemini via 40+ providers. Auto-fallback, RTK -40% tokens, never hit limits.",
+      "description_zh": "无限FREE AI编码. 通过40+供应商连接克洛德代码,克克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克特克 自动倒计时,RTK-40%的代币,从不击中极限.",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 40,
+      "observed_days": 1
+    },
+    {
+      "id": "1156994049",
+      "name": "OrchestratorInc/agent-orchestrator",
+      "url": "https://github.com/OrchestratorInc/agent-orchestrator",
+      "stars": 14233,
+      "category": "AI 编程",
+      "description": "Plan, run and supervise fleets of agents from task to merged PR. Desktop (macOS, Windows, Linux) + iPhone & Android apps.  Supports Claude Code, Codex & 35+ coding agents.",
+      "description_zh": "计划,管理和监督从任务到合并后的公关的特务车队. 桌面(macOS,Windows,Linux)+iPhone & Android应用程序. 支持 Claude Code, Codex & 35+ 编码代理.",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 50,
+      "observed_days": 1
+    }
+  ],
+  "updates": []
+}
