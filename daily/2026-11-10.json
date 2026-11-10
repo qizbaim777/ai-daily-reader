@@ -1,0 +1,60 @@
+{
+  "schema": 2,
+  "date": "2026-11-10",
+  "digest_id": "2776b8c7966c3dfb",
+  "projects": [
+    {
+      "id": "1193300953",
+      "name": "dramaclaw/dramaclaw",
+      "url": "https://github.com/dramaclaw/dramaclaw",
+      "stars": 7605,
+      "category": "AI 智能体",
+      "description": "A general-purpose AIGC video engine: script to finished film in one pipeline — dramas, ads, product videos, otome games, and more. | 通用 AIGC 视频引擎 —— 从剧本到成片一条流水线，漫剧、广告、电商、乙游皆可",
+      "description_zh": "| 通用 AIGC 视频引擎 —— 从剧本到成片一条流水线，漫剧、广告、电商、乙游皆可",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 170,
+      "observed_days": 1
+    },
+    {
+      "id": "881458615",
+      "name": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "stars": 120448,
+      "category": "AI 智能体",
+      "description": "Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.",
+      "description_zh": "用于AI浏览器代理的开源 Python 库,加上浏览器 Use Cloud:隐形浏览器和一个主机代理API.",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 96,
+      "observed_days": 1
+    },
+    {
+      "id": "1158588224",
+      "name": "AlexsJones/llmfit",
+      "url": "https://github.com/AlexsJones/llmfit",
+      "stars": 38862,
+      "category": "大模型工具",
+      "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+      "description_zh": "数以百计的模型和提供者。 一个命令可以找到运行在你的硬件。",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 81,
+      "observed_days": 1
+    },
+    {
+      "id": "725205304",
+      "name": "unslothai/unsloth",
+      "url": "https://github.com/unslothai/unsloth",
+      "stars": 79256,
+      "category": "大模型工具",
+      "description": "Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more.",
+      "description_zh": "本地UI运行和培训LLMS和传播模型. 支持GGUF,MLX,Quen3.8,DeepSeek-V4.1,MiniMax-H3,Gemma 4,FLUX等.",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 43,
+      "observed_days": 1
+    }
+  ],
+  "updates": []
+}
