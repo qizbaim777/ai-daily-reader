@@ -1,0 +1,73 @@
+{
+  "schema": 2,
+  "date": "2026-11-11",
+  "digest_id": "13e3897d874fdc20",
+  "projects": [
+    {
+      "id": "1450989838",
+      "name": "FJNB5/fujiang-pojia",
+      "url": "https://github.com/FJNB5/fujiang-pojia",
+      "stars": 516,
+      "category": "AI 智能体",
+      "description": "富江破甲（破甲）：DeepSeek Harness破甲插件，激活词富江，所有东西直接大白话问，内含技能库skill下载与调用、漏洞知识库poc利用、漏洞报告更新和全自动授权渗透。当前版本：0.20.12，附免责声明。插件图片看最下面",
+      "description_zh": "富江破甲（破甲）：DeepSeek Harness破甲插件，激活词富江，所有东西直接大白话问，内含技能库skill下载与调用、漏洞知识库poc利用、漏洞报告更新和全自动授权渗透。 当前版本：0.20.12，附免责声明。 插件图片看最下面",
+      "reason": "近期创建，值得发现的新项目",
+      "new_project": true,
+      "growth": 216,
+      "observed_days": 1
+    },
+    {
+      "id": "1395995350",
+      "name": "strands-labs/strands-decider",
+      "url": "https://github.com/strands-labs/strands-decider",
+      "stars": 1002,
+      "category": "机器学习",
+      "description": "A small, fast decision model, or system one model, for agentic workflows. Pick between options or rate on a scale faster than an LLM, with a calibrated confidence on every decision.",
+      "description_zh": "用于代理工作流程的小型快速决策模式,或系统一个模式. 在选项或速率之间比LLM更快地选择,对每个决定都有校准的自信.",
+      "reason": "近期创建，值得发现的新项目",
+      "new_project": true,
+      "growth": 226,
+      "observed_days": 1
+    },
+    {
+      "id": "1347982389",
+      "name": "datawhalechina/zero-to-sglang",
+      "url": "https://github.com/datawhalechina/zero-to-sglang",
+      "stars": 1963,
+      "category": "大模型工具",
+      "description": "Official SGLang x Datawhale course on LLM inference: understand inference, build a mini-sglang from scratch, then read the real SGLang source and land your first PR. Available in English and Chinese.",
+      "description_zh": "官方的SGLang x Datawhale课程关于LLM推论:理解推论,从头开始构建一个迷你sglang,然后读取真正的SGLang源头,登陆你的第一个PR. 英文和中文。",
+      "reason": "近期创建，值得发现的新项目",
+      "new_project": true,
+      "growth": 219,
+      "observed_days": 1
+    },
+    {
+      "id": "955620917",
+      "name": "upstash/context7",
+      "url": "https://github.com/upstash/context7",
+      "stars": 64531,
+      "category": "AI 智能体",
+      "description": "Context7 Platform -- Up-to-date docs for AI agents",
+      "description_zh": "背景7 平台 -- -- AI 智能体的最新文件",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 95,
+      "observed_days": 1
+    },
+    {
+      "id": "1330417082",
+      "name": "WhiteTowerAI/ohmygame",
+      "url": "https://github.com/WhiteTowerAI/ohmygame",
+      "stars": 2039,
+      "category": "AI 编程",
+      "description": "The open-source studio for making games with AI. Your own one-person game studio. Everything you need to make games with AI, in one app. Game canvas.  Bring your own key.",
+      "description_zh": "与AI制作游戏的开源工作室. 你自己的单人游戏工作室 所有你需要做的游戏 AI,在一个应用程序。 游戏画布. 自己拿钥匙来",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 155,
+      "observed_days": 1
+    }
+  ],
+  "updates": []
+}
