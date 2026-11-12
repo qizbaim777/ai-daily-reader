@@ -1,0 +1,81 @@
+{
+  "schema": 2,
+  "date": "2026-11-12",
+  "digest_id": "f24e305020bc25e7",
+  "projects": [
+    {
+      "id": "1440096236",
+      "name": "RunanywhereAI/trnrt",
+      "url": "https://github.com/RunanywhereAI/trnrt",
+      "stars": 1321,
+      "category": "大模型工具",
+      "description": "The open LLM inference engine for AWS Trainium: NKI megakernels, 1M-token context, OpenAI-compatible API. By RunAnywhere.",
+      "description_zh": "AWS Trainium的开放式LLM推论引擎:NKI巨核 1M-token上下文,OpenAI-兼容API. 随处而来",
+      "reason": "近期创建，值得发现的新项目",
+      "new_project": true,
+      "growth": 304,
+      "observed_days": 1
+    },
+    {
+      "id": "1008713177",
+      "name": "QwenLM/qwen-code",
+      "url": "https://github.com/QwenLM/qwen-code",
+      "stars": 29447,
+      "category": "AI 编程",
+      "description": "An open-source AI coding agent that lives in your terminal.",
+      "description_zh": "一个位于您终端的开源AI编码代理.",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 273,
+      "observed_days": 1
+    },
+    {
+      "id": "1424484225",
+      "name": "Zleap-AI/SAG-Wiki",
+      "url": "https://github.com/Zleap-AI/SAG-Wiki",
+      "stars": 1052,
+      "category": "AI 智能体",
+      "description": "A lightweight knowledge base for people and agents, with ultra fast indexing and most precise retrieval.",
+      "description_zh": "为人和智能体提供轻量级知识基础,具有超快的索引和最精确的检索.",
+      "reason": "近期创建，值得发现的新项目",
+      "new_project": true,
+      "growth": 196,
+      "observed_days": 1
+    },
+    {
+      "id": "155220641",
+      "name": "huggingface/transformers",
+      "url": "https://github.com/huggingface/transformers",
+      "stars": 168881,
+      "category": "大模型工具",
+      "description": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training. ",
+      "description_zh": "QQ变相器:用于文字,视觉,音频,和多模式模式中最先进的机器学习模型的模型定义框架,用于推论和培训.",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 127,
+      "observed_days": 1
+    }
+  ],
+  "updates": [
+    {
+      "id": "1136666433",
+      "name": "blader/humanizer",
+      "url": "https://github.com/blader/humanizer",
+      "stars": 67980,
+      "category": "AI 智能体",
+      "description": "Agent skill that removes signs of AI-generated writing from text",
+      "description_zh": "从文本中删除 AI 生成的写作符号的代理技能",
+      "reason": "发布大版本 v4.0.0",
+      "new_project": false,
+      "growth": null,
+      "observed_days": null,
+      "update": true,
+      "release_note_zh": "Humanizer 4.0.0让技能在文本通俗之处添加一个具体细节,并重写技能本身的指令和实例来更清晰. 重写可能包含您文本中没有的细节 。 如果你依赖于旧规则,留在v3.1.0. ∮ 改变了∮ - 技巧不再禁止增加事实。 如果案文是通用的,它现在增加了一个它知道是真实的的具体细节。 它仍然保留原先提出的每一项索赔,并将损失或更改的索赔视为错误。 这从2.9.0反倒了无发明规则. 模式14和17也随之而来。 - 重修了15 \"",
+      "release": {
+        "tag": "v4.0.0",
+        "url": "https://github.com/blader/humanizer/releases/tag/v4.0.0",
+        "published": "2026-11-10"
+      }
+    }
+  ]
+}
