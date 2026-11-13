@@ -1,0 +1,81 @@
+{
+  "schema": 2,
+  "date": "2026-11-13",
+  "digest_id": "913d596c71b598d4",
+  "projects": [
+    {
+      "id": "1387586059",
+      "name": "n8n-io/nod",
+      "url": "https://github.com/n8n-io/nod",
+      "stars": 835,
+      "category": "AI 智能体",
+      "description": "Open source personal agent with its own computer. It chases invoices, preps your calls and cancels trials on real websites, and asks before it acts. Runs on your machine with the model you choose. By n8n.",
+      "description_zh": "开源个人代理拥有自己的计算机. 它追逐发票,预先拨打你的电话,取消在真实网站上的审判,并在采取行动前询问. 用你选择的模型运行在机器上. 以n8n为单位.",
+      "reason": "近期创建，值得发现的新项目",
+      "new_project": true,
+      "growth": 370,
+      "observed_days": 1
+    },
+    {
+      "id": "1451653921",
+      "name": "MiniMax-AI/MiniMax-H3-Image",
+      "url": "https://github.com/MiniMax-AI/MiniMax-H3-Image",
+      "stars": 302,
+      "category": "图像 / 视频",
+      "description": "MiniMax-H3-Image, an open-weight model for 16-megapixel image generation and editing.",
+      "description_zh": "MiniMax-H3-Image,是16相模图像生成和编辑的开口量模型.",
+      "reason": "近期创建，值得发现的新项目",
+      "new_project": true,
+      "growth": 96,
+      "observed_days": 1
+    },
+    {
+      "id": "974591843",
+      "name": "ChenLiu-1996/figures4papers",
+      "url": "https://github.com/ChenLiu-1996/figures4papers",
+      "stars": 11152,
+      "category": "大模型工具",
+      "description": "My Python scripts to make high-quality figures for publications in top AI conferences and journals.",
+      "description_zh": "My Python 脚本为AI高层会议和期刊上的出版物制作出高品质的数字.",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 133,
+      "observed_days": 1
+    },
+    {
+      "id": "1234537369",
+      "name": "Gentleman-Programming/gentle-shell",
+      "url": "https://github.com/Gentleman-Programming/gentle-shell",
+      "stars": 2447,
+      "category": "AI 编程",
+      "description": "Gentle Shell is a Pi-native workspace for AI-assisted development, bringing parallel coding agents, live tasks, Git diffs, persistent memory, and permission controls into one terminal interface. Powered by Gentle AI and Organic Driven Development (ODD).",
+      "description_zh": "Gentle Shell是一个用于AI辅助开发的Pi-native工作空间,将平行编码代理,活任务,Git diffs,持续内存,以及权限控制带入一个终端接口. 由Gentle AI和有机驱动开发(ODD)提供动力.",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 168,
+      "observed_days": 1
+    }
+  ],
+  "updates": [
+    {
+      "id": "881458615",
+      "name": "browser-use/browser-use",
+      "url": "https://github.com/browser-use/browser-use",
+      "stars": 120853,
+      "category": "AI 智能体",
+      "description": "Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.",
+      "description_zh": "用于AI浏览器代理的开源 Python 库,加上浏览器 Use Cloud:隐形浏览器和一个主机代理API.",
+      "reason": "发布大版本 1.0.3",
+      "new_project": false,
+      "growth": null,
+      "observed_days": null,
+      "update": true,
+      "release_note_zh": "“ pip s安装” 浏览器- 使用 = 1. 0.3 ” - `-cli-mcp'在答复前客户关闭管子时(是带有`Excepion Group'的1号出口),出口干净。 - 在没有浏览器进行远程调试或没有显示时,如`-cli-mcp',CLI运行自己的铬。 它在各种呼叫中持续存在;`浏览器使用-重装 ' 将其关闭。 - `BU_CDP_URL'在3 s中听不见故障,只有一条信息标明了数值,而且两条路都走了(是30 s等)。 - 通过其DevToolsActivePort接受另一个 pid namespace中的Chrome(容器, Cursor on Linux). - 取消的云运行副本下载时间在 10 s",
+      "release": {
+        "tag": "1.0.3",
+        "url": "https://github.com/browser-use/browser-use/releases/tag/1.0.3",
+        "published": "2026-11-12"
+      }
+    }
+  ]
+}
