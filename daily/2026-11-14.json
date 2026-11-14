@@ -1,0 +1,81 @@
+{
+  "schema": 2,
+  "date": "2026-11-14",
+  "digest_id": "db9fc405e68d715d",
+  "projects": [
+    {
+      "id": "1429601047",
+      "name": "wici-ai/inferssd",
+      "url": "https://github.com/wici-ai/inferssd",
+      "stars": 1073,
+      "category": "大模型工具",
+      "description": "Run models larger than your RAM or VRAM by streaming MoE experts from SSD. Built on llama.cpp.",
+      "description_zh": "通过流传SSD的MOE专家运行大于你的RAM或VRAM的模型. 建于lama.cpp上.",
+      "reason": "近期创建，值得发现的新项目",
+      "new_project": true,
+      "growth": 419,
+      "observed_days": 1
+    },
+    {
+      "id": "1450794567",
+      "name": "agentes-chat/agentes-chat",
+      "url": "https://github.com/agentes-chat/agentes-chat",
+      "stars": 1342,
+      "category": "AI 编程",
+      "description": "Open-source, self-hosted Slack alternative where your team and AI agents work together in channels and DMs. Agents run on Claude, ChatGPT/Codex, Gemini or Grok, with MCP tools, their own computer and browser, routines, memory and approvals. Web, desktop and phone apps. Docker Compose + Postgres. AGPL-3.0.",
+      "description_zh": "开源自办的Slack替代程序 你的团队和AI智能体在频道和DM上合作 代理在克劳德,ChatGPT/Codex,双子座或格罗克运行,拥有MCP工具,自己的计算机和浏览器,常规,内存和批准. 网络,桌面和电话应用. 多克编曲 + Postgres. AGPL-3.0 (英语).",
+      "reason": "近期创建，值得发现的新项目",
+      "new_project": true,
+      "growth": 163,
+      "observed_days": 1
+    },
+    {
+      "id": "1235403234",
+      "name": "nexu-io/openmotion",
+      "url": "https://github.com/nexu-io/openmotion",
+      "stars": 9853,
+      "category": "AI 智能体",
+      "description": "The open-source full-stack studio for Opus 5.5 motion video. Reverse engineering for any video. Code video with HTML: recreate, edit and render. BYOA + BYOK · Motion.md · Images, Video, Music & Voice.",
+      "description_zh": "Opus 5.5动视频的开源全层工作室. 任何视频的反向工程 HTML的代码视频:重制,编辑和渲染. BYOA + BYOK → Motion.md → 图像,视频,音乐和语音.",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 101,
+      "observed_days": 1
+    },
+    {
+      "id": "793375104",
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "stars": 144583,
+      "category": "AI 智能体",
+      "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+      "description_zh": "100+ AI 智能体,代理技能和RAG Apps - 免费开放源代码.",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 67,
+      "observed_days": 1
+    }
+  ],
+  "updates": [
+    {
+      "id": "1347982389",
+      "name": "datawhalechina/zero-to-sglang",
+      "url": "https://github.com/datawhalechina/zero-to-sglang",
+      "stars": 2116,
+      "category": "大模型工具",
+      "description": "Official SGLang x Datawhale course on LLM inference: understand inference, build a mini-sglang from scratch, then read the real SGLang source and land your first PR. Available in English and Chinese.",
+      "description_zh": "官方的SGLang x Datawhale课程关于LLM推论:理解推论,从头开始构建一个迷你sglang,然后读取真正的SGLang源头,登陆你的第一个PR. 英文和中文。",
+      "reason": "首次正式发布 pdf-2026-11-12",
+      "new_project": false,
+      "growth": null,
+      "observed_days": null,
+      "update": true,
+      "release_note_zh": "zero-to-sglang 课程的 PDF 版本，2026-11-12 导出自在线网站。 每份 PDF 都有封面、可点击的目录、按章节和小节划分的",
+      "release": {
+        "tag": "pdf-2026-11-12",
+        "url": "https://github.com/datawhalechina/zero-to-sglang/releases/tag/pdf-2026-11-12",
+        "published": "2026-11-12"
+      }
+    }
+  ]
+}
