@@ -1,81 +1,73 @@
 {
   "schema": 2,
-  "date": "2026-11-15",
-  "digest_id": "f0a5748d1e9d30fa",
+  "date": "2026-11-16",
+  "digest_id": "eb1f574577c542f4",
   "projects": [
     {
-      "id": "1448515937",
-      "name": "DIYgod/pinky",
-      "url": "https://github.com/DIYgod/pinky",
-      "stars": 2152,
-      "category": "AI 智能体",
-      "description": "Let AI use your iPhone or Android phone, with you in the loop: any MCP agent from macOS, Windows or Linux, or Pinky itself, right on the phone.",
-      "description_zh": "让AI使用你的iPhone或Android手机,与你循环:任何来自macOS,Windows或Linux的MCP代理,或Pinky本身,就在手机上.",
-      "reason": "近期创建，值得发现的新项目",
-      "new_project": true,
-      "growth": 74,
-      "observed_days": 1
-    },
-    {
-      "id": "1437869585",
-      "name": "mdiri-ai/SoduWork",
-      "url": "https://github.com/mdiri-ai/SoduWork",
-      "stars": 776,
-      "category": "AI 智能体",
-      "description": "The AI-native engine for teams and their agents. Multi-harness, multi-agent, self-hosted.",
-      "description_zh": "团队及其智能体的AI本土引擎. 多机,多机,自办.",
-      "reason": "近期创建，值得发现的新项目",
-      "new_project": true,
-      "growth": 103,
-      "observed_days": 1
-    },
-    {
-      "id": "538180525",
-      "name": "ggml-org/ggml",
-      "url": "https://github.com/ggml-org/ggml",
-      "stars": 15787,
-      "category": "机器学习",
-      "description": "Tensor library for machine learning",
-      "description_zh": "用于机器学习的 Tensor 库",
+      "id": "1314510108",
+      "name": "Tencent/LoopForge",
+      "url": "https://github.com/Tencent/LoopForge",
+      "stars": 1496,
+      "category": "AI 编程",
+      "description": "Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants.",
+      "description_zh": "自行托管编码代理发送工作流程. 管弦乐团 CodeBuddy, Codex和Claude Code 配有脚本和人类批准大门. 包括编码助理的本地工作流程。",
       "reason": "近期仍活跃，已获得较多关注",
       "new_project": false,
-      "growth": 164,
+      "growth": 582,
       "observed_days": 1
     },
     {
-      "id": "1342935078",
-      "name": "bojieli/ai-infra-book",
-      "url": "https://github.com/bojieli/ai-infra-book",
-      "stars": 7725,
+      "id": "1319154759",
+      "name": "FareedKhan-dev/kimi-k3-in-c",
+      "url": "https://github.com/FareedKhan-dev/kimi-k3-in-c",
+      "stars": 12150,
       "category": "大模型工具",
-      "description": "《深入理解 AI Infra：量化分析与系统设计》（李博杰 著）开源书稿：从硬件约束和模型架构出发，量化推导 LLM 推理与训练系统设计。含全书正文、PDF、配套计算工具与实验",
-      "description_zh": "《深入理解 AI Infra：量化分析与系统设计》（李博杰 著）开源书稿：从硬件约束和模型架构出发，量化推导 LLM 推理与训练系统设计。 含全书正文、PDF、配套计算工具与实验",
+      "description": "A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB of RAM. Portable C99: no BLAS, no framework, no GPU.",
+      "description_zh": "一个2.78-trillion-parameter Kimi K3运行的推论对一个单CPU在8.24 GB的RAM. 便携式C99:没有BLAS,没有框架,没有GPU.",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 2916,
+      "observed_days": 17
+    },
+    {
+      "id": "1198306812",
+      "name": "HKUDS/Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "stars": 38326,
+      "category": "AI 智能体",
+      "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "description_zh": "\"维贝塔林:你的私人交易代理\"",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 85,
+      "observed_days": 1
+    },
+    {
+      "id": "1445286453",
+      "name": "hyperionaidev/smolmaxxing",
+      "url": "https://github.com/hyperionaidev/smolmaxxing",
+      "stars": 745,
+      "category": "大模型工具",
+      "description": "maxxing the ability to run different LLMs on the smallest devices possible",
+      "description_zh": "maxx 在最小设备上运行不同 LLMS 的能力",
       "reason": "近期创建，值得发现的新项目",
       "new_project": true,
-      "growth": 160,
+      "growth": 46,
+      "observed_days": 1
+    },
+    {
+      "id": "552661142",
+      "name": "langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "stars": 149582,
+      "category": "AI 智能体",
+      "description": "The agent engineering platform.",
+      "description_zh": "代理工程平台.",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 63,
       "observed_days": 1
     }
   ],
-  "updates": [
-    {
-      "id": "1397906178",
-      "name": "GanyuanRan/Autoloom",
-      "url": "https://github.com/GanyuanRan/Autoloom",
-      "stars": 285,
-      "category": "AI 编程",
-      "description": "AI coding with Aegis governance built into execution: baseline-aware changes, evidence-backed delivery. Free desktop client, your choice of model. 将哲科思维融入 AI 开发执行，让变更有依据、交付有证据。用创意编织现实。",
-      "description_zh": "将哲科思维融入 AI 开发执行，让变更有依据、交付有证据。 用创意编织现实。",
-      "reason": "首次正式发布 v0.1.0",
-      "new_project": false,
-      "growth": null,
-      "observed_days": null,
-      "update": true,
-      "release_note_zh": "Autoloom 0.1.0 是首个正式版本，提供 Windows x64 安装包，并使用正式（latest）更新通道。 本次更新包含 beta.11 之后的改进： - **命令更安全**：Agent 运行的命令有内存上限（默认取物理内存的一半且不超过 16 GiB，可用环境变量调整或关闭），失控命令不会再拖垮整台电脑；命令接近上限时会在输出里给出提示，并在系统提示中说明如何避免。 - **退出更可靠**：退出时所有等待都有时限，后台无响应时不会再让应用既无法关闭也无法重新打开。 - **长会话读取更稳**：读取很长的会话日志时限制并发解压，避免瞬时占用过多内存。 - **任务清单更好用**：上下文压缩后保留未完成的任务清单；任务已进行若干步仍没有清单时提醒一次（可在配置中关闭）；清单工具的说明补充了适用与不适用的例子；已完成的任务不再显示“已停止”。 - **治理与结果交付**：结果先作为普通回答交付再记录，减少重复输出；结构复杂度反馈更贴近真实压力。 - **界面与桌面**：右侧栏的“开始”选择器只在需要时出现；外部 http(s) 链接用系统浏览器打开。 - **Windows 命令进程树**：命令退出时会报告仍在运行的子进程。 - 安装包未做代码签名，可用发布页的 `SHA256SUMS` 校验下载完整性，`SOURCE_REVISION` 记录构建所用的提",
-      "release": {
-        "tag": "v0.1.0",
-        "url": "https://github.com/GanyuanRan/Autoloom/releases/tag/v0.1.0",
-        "published": "2026-11-13"
-      }
-    }
-  ]
+  "updates": []
 }
