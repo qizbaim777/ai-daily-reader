@@ -1,0 +1,73 @@
+{
+  "schema": 2,
+  "date": "2026-11-18",
+  "digest_id": "9aaafa8e0725fc31",
+  "projects": [
+    {
+      "id": "45717250",
+      "name": "tensorflow/tensorflow",
+      "url": "https://github.com/tensorflow/tensorflow",
+      "stars": 201758,
+      "category": "机器学习",
+      "description": "An Open Source Machine Learning Framework for Everyone",
+      "description_zh": "面向每个人的开源机器学习框架",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 151,
+      "observed_days": 1
+    },
+    {
+      "id": "1456635592",
+      "name": "StormBrawlerSack/legwork-osint-ai-investigator",
+      "url": "https://github.com/StormBrawlerSack/legwork-osint-ai-investigator",
+      "stars": 452,
+      "category": "AI 智能体",
+      "description": "AI OSINT investigator for Windows: ask a question in plain words and get an answer built from public sources, with a source on every sentence.",
+      "description_zh": "Windows的AI OSINT调查员:用平话提问并获得来自公共来源的答案,每个句子都有来源.",
+      "reason": "近期创建，值得发现的新项目",
+      "new_project": true,
+      "growth": 95,
+      "observed_days": 1
+    },
+    {
+      "id": "1374667371",
+      "name": "qwdwqfwq/topconf-paper-figure-gallery",
+      "url": "https://github.com/qwdwqfwq/topconf-paper-figure-gallery",
+      "stars": 1867,
+      "category": "机器学习",
+      "description": "3,516 curated Figure 1 / teasers from ICLR, ICML, NeurIPS, CVPR, ACL, AAAI (2023-2026), with tier badges and FigureForge retrieval-augmented figure drafting",
+      "description_zh": "图1/取笑者来自ICLR、ICML、NeurIPS、CVPR、ACL、AAAI(2023-2026年),其等级徽章和图Forge检索图文",
+      "reason": "近期创建，值得发现的新项目",
+      "new_project": true,
+      "growth": 195,
+      "observed_days": 1
+    },
+    {
+      "id": "1219042200",
+      "name": "op7418/guizang-ppt-skill",
+      "url": "https://github.com/op7418/guizang-ppt-skill",
+      "stars": 29983,
+      "category": "AI 智能体",
+      "description": "AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime.",
+      "description_zh": "生成抛光的HTML幻灯片甲板的AI 智能体技能:编辑杂志和瑞士版式,图像提示,社交封面,以及WebGL/低功率演示运行时间.",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 89,
+      "observed_days": 1
+    },
+    {
+      "id": "599524116",
+      "name": "SillyTavern/SillyTavern",
+      "url": "https://github.com/SillyTavern/SillyTavern",
+      "stars": 35761,
+      "category": "大模型工具",
+      "description": "LLM Frontend for Power Users.",
+      "description_zh": "电源用户的LLM前端.",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 61,
+      "observed_days": 1
+    }
+  ],
+  "updates": []
+}
