@@ -1,0 +1,81 @@
+{
+  "schema": 2,
+  "date": "2026-11-20",
+  "digest_id": "9c2661eb9b29eb60",
+  "projects": [
+    {
+      "id": "925270205",
+      "name": "trycua/cua",
+      "url": "https://github.com/trycua/cua",
+      "stars": 32686,
+      "category": "AI 智能体",
+      "description": "Scale computer-use 2.0 with open-source drivers, cross-OS sandboxes, and benchmarks for training, evaluation, and data generation.",
+      "description_zh": "以开源驱动器、跨OS沙盒以及培训、评价和数据生成的基准来缩放计算机使用2.0。",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 69,
+      "observed_days": 1
+    },
+    {
+      "id": "1010318950",
+      "name": "SWE-agent/mini-swe-agent",
+      "url": "https://github.com/SWE-agent/mini-swe-agent",
+      "stars": 9862,
+      "category": "AI 智能体",
+      "description": "The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores >74% on SWE-bench verified!",
+      "description_zh": "解决 GitHub 问题的100行 AI 智能体 或帮助您执行命令 。 绝对简单,没有庞大的配置,没有巨大的单曲——但是在SWE-bench上得分大于74%!",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 102,
+      "observed_days": 1
+    },
+    {
+      "id": "908589694",
+      "name": "Zackriya-Solutions/meetily",
+      "url": "https://github.com/Zackriya-Solutions/meetily",
+      "stars": 32874,
+      "category": "大模型工具",
+      "description": "Privacy-first AI meeting note taker for Windows, macOS and Linux. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to Granola, Otter and Fireflies. https://meetily.ai",
+      "description_zh": "隐私 - Windows, macOS 和 Linux 的首个AI会议记录接收器. 自由开源 (MIT). On-device Whisper/Parakeet 转录和扬声器对接,没有相会机器人. 开源替代品为格拉诺拉,奥特和萤火虫. https://meetily.ai (英语).",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 62,
+      "observed_days": 1
+    },
+    {
+      "id": "1434153775",
+      "name": "Banan1cee/whale_girl",
+      "url": "https://github.com/Banan1cee/whale_girl",
+      "stars": 788,
+      "category": "大模型工具",
+      "description": "鲸鲸 · 让 DeepSeek 用你的微信账号陪聊（Windows 桌面端 + WPF 启动器）。WeChat chat bot powered by DeepSeek/Qwen.",
+      "description_zh": "让 DeepSeek 用你的微信账号陪聊（Windows 桌面端 + WPF 启动器）。",
+      "reason": "近期创建，值得发现的新项目",
+      "new_project": true,
+      "growth": 40,
+      "observed_days": 1
+    }
+  ],
+  "updates": [
+    {
+      "id": "1235403234",
+      "name": "nexu-io/openmotion",
+      "url": "https://github.com/nexu-io/openmotion",
+      "stars": 12913,
+      "category": "AI 编程",
+      "description": "The open-source Claude Motion & CapCut alternative. Turn a reference video into editable motion graphics with your brand kit. Export MP4s for YouTube, YouTube Shorts, Instagram Reels, and TikTok. A full-stack agentic video studio with 300+ Motion.md guides and support for 22 agents, including Claude Code, Codex, DSH, and WorkBuddy.",
+      "description_zh": "开源 Claude Motion & CapCut 替代品. 将参考视频与你的品牌工具包一起转换为可编辑的运动图形. 为YouTube,YouTube Shorts,Instagram Reels,和TikTok等出口MP4. 一个装有300+ Motion.md 向导和支持22个代理的全高架代理视频工作室,包括克洛德代码,Codex,DSH,和WorkBuddy.",
+      "reason": "首次正式发布 v0.1.1",
+      "new_project": false,
+      "growth": null,
+      "observed_days": null,
+      "update": true,
+      "release_note_zh": "** Drop in a crip, cut to the best moment,并给出标题。 ** OpenMotion 0.1将标题编辑和导出带入工作室,使剪辑投放更容易看得到,并增加了**96新技能**,用于从说话头亮点到动能产品启动的一切。 #### 要点 -=YTET -伊甸园字幕组=- 翻译: 微调 Studio 中的每行、 时间和风格, 然后将编辑后的标题作为 SRT 或 VTT 。 需要介绍一下吗? 单独导出该场景为 MP4. 547号 - 编辑一次,",
+      "release": {
+        "tag": "v0.1.1",
+        "url": "https://github.com/nexu-io/openmotion/releases/tag/v0.1.1",
+        "published": "2026-11-18"
+      }
+    }
+  ]
+}
