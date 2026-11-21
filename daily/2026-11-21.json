@@ -1,0 +1,81 @@
+{
+  "schema": 2,
+  "date": "2026-11-21",
+  "digest_id": "391d0d0465a3195a",
+  "projects": [
+    {
+      "id": "1410961834",
+      "name": "BaaRai/ARTEX",
+      "url": "https://github.com/BaaRai/ARTEX",
+      "stars": 13761,
+      "category": "AI 智能体",
+      "description": "ARTEX - AI autonomous penetration testing system (English translation; upstream: Autumn-27/ARTEX, AGPL-3.0)",
+      "description_zh": "ARTEX - AI自主渗透测试系统(英文翻译;上游:Attum-27/ARTEX,AGPL-3.0)",
+      "reason": "近期创建，值得发现的新项目",
+      "new_project": true,
+      "growth": 1704,
+      "observed_days": 1
+    },
+    {
+      "id": "1446725818",
+      "name": "ZSeven-W/dsh-game-studio",
+      "url": "https://github.com/ZSeven-W/dsh-game-studio",
+      "stars": 718,
+      "category": "AI 智能体",
+      "description": "Describe a small game in one sentence, play it in the DeepSeek Harness sidebar, swap in AI art, and publish to GitHub Pages or Cloudflare in one click.",
+      "description_zh": "在一句中描述一款小游戏,在DeepSeek Harness侧边栏中播放,在AI艺术中互换,并一击就发布给GitHub Pages或Cloudflare.",
+      "reason": "近期创建，值得发现的新项目",
+      "new_project": true,
+      "growth": 124,
+      "observed_days": 1
+    },
+    {
+      "id": "1407921380",
+      "name": "simplexai-labs/PolyStrata",
+      "url": "https://github.com/simplexai-labs/PolyStrata",
+      "stars": 1305,
+      "category": "大模型工具",
+      "description": "Run large AI models on your own PC: Qwen3.8-Flash-Next on Strata's engine, and GLM 5.3 Flash, DeepSeek V4 Flash, LFM2.5, Qwen3.6, Ornith 1.5, Gemma 4, Tiel Coder and MiniCPM-V on a second engine written for PolyStrata. One-click install for Windows and Linux, OpenAI/Anthropic API on localhost.",
+      "description_zh": "在你自己的PC上运行大型AI模型:在斯特拉塔的引擎上运行Quen3.8-Flash-Next,在为PolyStrata所写的第二台引擎上运行GLM 5.3 Flash,DeepSeek V4 Flash,LFM2.5,Quen3.6,Ornith 1.5,Gemma 4,Tiel Coder和MiniCPM-V. 一击安装 Windows 和 Linux, OpenAI/Anthropic API 在本地主机上.",
+      "reason": "近期创建，值得发现的新项目",
+      "new_project": true,
+      "growth": 87,
+      "observed_days": 1
+    },
+    {
+      "id": "1457507582",
+      "name": "oriliz/agent-crop",
+      "url": "https://github.com/oriliz/agent-crop",
+      "stars": 173,
+      "category": "AI 编程",
+      "description": "给 AI 编程助手一根马鞭：本地记录时间去向，把复盘写回 agent 指令/技能/工具；改没改好，用数据说话。 | A whip for coding agents: local timing, red-line nudges, and an evidence-backed, auditable self-improvement loop. DSH / Claude Code / Codex.",
+      "description_zh": "给 AI 编程助手一根马鞭：本地记录时间去向，把复盘写回 agent 指令/技能/工具；改没改好，用数据说话。",
+      "reason": "近期创建，值得发现的新项目",
+      "new_project": true,
+      "growth": 79,
+      "observed_days": 1
+    }
+  ],
+  "updates": [
+    {
+      "id": "1125856365",
+      "name": "can1357/oh-my-pi",
+      "url": "https://github.com/can1357/oh-my-pi",
+      "stars": 39541,
+      "category": "AI 编程",
+      "description": "⌥ Coding agent with the IDE wired in. Built by Stencil Labs.",
+      "description_zh": "装有电线的编码代理 由斯通西尔实验室所建.",
+      "reason": "发布大版本 v19.0.1",
+      "new_project": false,
+      "growth": null,
+      "observed_days": null,
+      "update": true,
+      "release_note_zh": "□@oh-my-pi/pi-ai 固定时间 - 固定的GIF图像在液态AI判断失败时使用HTTP 422;现在作为PNG(#19757由@alphatorm发送) - Anthropic 严格工具倒置,现在将Vertex org 政策拒绝`结构化-输出'(`AlowedPartner ModelFeatures' / “被忽略的特征结构化-输出')视为严格的工具拒绝,重复一次而不使用`限制',以及针头`可禁用 ' (# 19576)(# 19655由@koeria提供) - Kiro 请求用`投入时间太长'拒绝了。 ' 或`CONTENT_LENGTH-EXCEEDS_THRESHOLD ' 现在可以通过对话收缩恢复(# 19723 by @emotionbug) - 基尔",
+      "release": {
+        "tag": "v19.0.1",
+        "url": "https://github.com/can1357/oh-my-pi/releases/tag/v19.0.1",
+        "published": "2026-11-19"
+      }
+    }
+  ]
+}
