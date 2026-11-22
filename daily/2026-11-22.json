@@ -1,0 +1,81 @@
+{
+  "schema": 2,
+  "date": "2026-11-22",
+  "digest_id": "d4c5c8dbedf4792d",
+  "projects": [
+    {
+      "id": "1464271688",
+      "name": "bookwjitchieni1986/blender-ai-mcp-addon",
+      "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
+      "stars": 2418,
+      "category": "AI 编程",
+      "description": "AI assistant and MCP server for Blender: visual chat, scene tools, multi-agent workflows. Works with ChatGPT/GPT, Claude, Gemini, Ollama, OpenCode. Blender AI addon, copilot for 3D, bpy Python scripting, MCP integration.",
+      "description_zh": "Blender的AI助手和MCP服务器:视觉聊天,场景工具,多代理工作流程. 与ChatGPT/GPT,克劳德,双子座,奥拉马,OpenCode合作. Blender AI addon,3D,bpy Python脚本的副驾驶,MCP集成.",
+      "reason": "近期创建，值得发现的新项目",
+      "new_project": true,
+      "growth": 639,
+      "observed_days": 1
+    },
+    {
+      "id": "1447145240",
+      "name": "JosssphZhou/poki",
+      "url": "https://github.com/JosssphZhou/poki",
+      "stars": 1749,
+      "category": "AI 智能体",
+      "description": "Poki uses your iPhone like you do. An open-source agent app that runs on your iPhone, reads the screen, and taps, types and swipes in real apps with your own model account.",
+      "description_zh": "波克像你一样使用iPhone. 一个开源代理应用程序,运行在您的iPhone上,读取屏幕,并在真实的应用中用您自己的模型账户来进行自制,打字和刷卡.",
+      "reason": "近期创建，值得发现的新项目",
+      "new_project": true,
+      "growth": 52,
+      "observed_days": 1
+    },
+    {
+      "id": "1453647570",
+      "name": "fendouai/ViralForge",
+      "url": "https://github.com/fendouai/ViralForge",
+      "stars": 478,
+      "category": "AI 智能体",
+      "description": "Agent-native viral video studio: one-click replicate viral short videos, deconstruct video hooks and scripts into a Viral DNA report, and ship 10 costed variants. Skill + MCP + CLI. Apache-2.0.",
+      "description_zh": "Agent-native病毒视频工作室:一击复制病毒短视频,解构视频钩和脚本入ViralDNA报告,并运送10个已计算成本的变体. 技能+MCP+CLI. 阿帕奇2.0 (英语).",
+      "reason": "近期创建，值得发现的新项目",
+      "new_project": true,
+      "growth": 49,
+      "observed_days": 1
+    },
+    {
+      "id": "600544354",
+      "name": "AI4Finance-Foundation/FinGPT",
+      "url": "https://github.com/AI4Finance-Foundation/FinGPT",
+      "stars": 21660,
+      "category": "大模型工具",
+      "description": "FinGPT: Open-Source Financial Large Language Models!  Revolutionize 🔥    We release the trained model on HuggingFace.",
+      "description_zh": "FINGPT:开源金融大语言模式! 革命化,我们释放了在HuggingFace上训练有素的模型。",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 65,
+      "observed_days": 1
+    }
+  ],
+  "updates": [
+    {
+      "id": "1226123343",
+      "name": "virgiliojr94/book-to-skill",
+      "url": "https://github.com/virgiliojr94/book-to-skill",
+      "stars": 38647,
+      "category": "AI 编程",
+      "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
+      "description_zh": "将任何技术书PDF变成克洛德代码技能——准备在工作时学习,参考,使用.",
+      "reason": "发布大版本 v2.0.1",
+      "new_project": false,
+      "growth": null,
+      "observed_days": null,
+      "update": true,
+      "release_note_zh": "^ [2.0.1] - 2026-11-19 (中文(简体) ). ++ 已经添加 - 在步骤0中直接添加选择入门的 MCP 设置 - 检测阿拉伯语(QQ/QQ)章节标题(# 346) - 检测格鲁吉亚语章节标题(# 325) 页:1 - 本地显示大小写搜索并读取,提高赞助商的能见度 - 以公开许可的Pro Git代替商业书籍为例 - 增加日本读取(# 328) 固定时间 - 澄清搜索和读取登入 UX 和赤裸搜索处理 - 优先处理开放_访问结果、过滤书题和紧凑显示ID - 停止将未经核实的Crossref DOIs列为开放存取并推迟输出 dir cre",
+      "release": {
+        "tag": "v2.0.1",
+        "url": "https://github.com/virgiliojr94/book-to-skill/releases/tag/v2.0.1",
+        "published": "2026-11-19"
+      }
+    }
+  ]
+}
