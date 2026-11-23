@@ -1,0 +1,73 @@
+{
+  "schema": 2,
+  "date": "2026-11-23",
+  "digest_id": "c643a7200ab14b45",
+  "projects": [
+    {
+      "id": "1463683138",
+      "name": "INK-Q/agy-fast",
+      "url": "https://github.com/INK-Q/agy-fast",
+      "stars": 522,
+      "category": "AI 编程",
+      "description": "Non-invasive MCP accelerator plugin for Google Antigravity (CLI/Desktop/IDE): cuts LLM turns (-34%), token quota (-31%), and upload traffic (-40%) without affecting native UI or diffs.",
+      "description_zh": "Google Antigravity(CLI/Desktop/IDE)的非入侵性MCP加速器插件:在不影响本地UI或diffs的情况下,削减LLM转折(-34%),象征性配额(-31%)和上传流量(-40%).",
+      "reason": "近期创建，值得发现的新项目",
+      "new_project": true,
+      "growth": 270,
+      "observed_days": 1
+    },
+    {
+      "id": "1131107802",
+      "name": "FlorianBruniaux/claude-code-ultimate-guide",
+      "url": "https://github.com/FlorianBruniaux/claude-code-ultimate-guide",
+      "stars": 6995,
+      "category": "AI 编程",
+      "description": "The most comprehensive Claude Code guide: agentic workflows, hooks, skills, MCP servers, quizzes, and production-ready templates. 430K+ lines.",
+      "description_zh": "最全面的克洛德代码指南:代理工作流程,钩子,技能,MCP服务器,测试,以及制作准备模板. 430K+线路.",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 475,
+      "observed_days": 1
+    },
+    {
+      "id": "1457605310",
+      "name": "mankidev/antialgorithm",
+      "url": "https://github.com/mankidev/antialgorithm",
+      "stars": 708,
+      "category": "AI 智能体",
+      "description": "Agent skill that steers the model away from its first, most average pick in creative work: names, ideas, logo, posters, UI.",
+      "description_zh": "使模型远离其第一个,最普通的创意作品的代理技能:名字,想法,标志,海报,UI.",
+      "reason": "近期创建，值得发现的新项目",
+      "new_project": true,
+      "growth": 101,
+      "observed_days": 1
+    },
+    {
+      "id": "1053118194",
+      "name": "bojieli/ai-agent-book",
+      "url": "https://github.com/bojieli/ai-agent-book",
+      "stars": 59156,
+      "category": "AI 智能体",
+      "description": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "description_zh": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 1819,
+      "observed_days": 16
+    },
+    {
+      "id": "646410686",
+      "name": "hiyouga/LlamaFactory",
+      "url": "https://github.com/hiyouga/LlamaFactory",
+      "stars": 76209,
+      "category": "大模型工具",
+      "description": "Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)",
+      "description_zh": "统一高效的100+LLM和VLM(ACL 2024)",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 35,
+      "observed_days": 1
+    }
+  ],
+  "updates": []
+}
