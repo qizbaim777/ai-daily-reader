@@ -1,0 +1,73 @@
+{
+  "schema": 2,
+  "date": "2026-11-25",
+  "digest_id": "fe57a790693722df",
+  "projects": [
+    {
+      "id": "1453006141",
+      "name": "XinaTian/MROffice",
+      "url": "https://github.com/XinaTian/MROffice",
+      "stars": 3795,
+      "category": "AI 编程",
+      "description": "MR Office — the open-source editors of the AI office suite closest to Microsoft Office: documents, spreadsheets, presentations, PDF and code in the browser. Copilot in every editor edits real Word, Excel and PowerPoint files with you; an MCP server lets Claude, ChatGPT, Cursor and Codex create and edit them; embed it in your app with one line.",
+      "description_zh": "MR Office——最接近微软Office的AI办公套件的开源编辑器:浏览器中的文档,电子表格,演示文稿,PDF和代码. 每个编辑器中的副驾驶与您一起编辑真实的Word, Excel和PowerPoint文件; 一个MCP服务器让克洛德, ChatGPT, Cursor 和 Codex 创建并编辑它们; 用一行嵌入到您的应用程序中.",
+      "reason": "近期创建，值得发现的新项目",
+      "new_project": true,
+      "growth": 990,
+      "observed_days": 1
+    },
+    {
+      "id": "1460452633",
+      "name": "pierridotite/mobile-agent-testers",
+      "url": "https://github.com/pierridotite/mobile-agent-testers",
+      "stars": 1849,
+      "category": "AI 编程",
+      "description": "20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and Android emulators that find broken flows, translation, layout and accessibility bugs",
+      "description_zh": "20个不同手机上的20个AI测试器,并行在GitHub的自由跑道上: Claude Code代理在iOS模拟器和Android模拟器上发现断流,翻译,布局和可访问性bug",
+      "reason": "近期创建，值得发现的新项目",
+      "new_project": true,
+      "growth": 380,
+      "observed_days": 1
+    },
+    {
+      "id": "979115477",
+      "name": "bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "stars": 85760,
+      "category": "AI 智能体",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "description_zh": "一种开源长视超天线(英语:Long-horizon SuperAgent)的牵引装置,可以研究,代码并创建. 在沙盒,记忆,工具,技能,子剂和消息网关的帮助下,它处理不同级别的任务,可能要花上几分钟到几小时.",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 56,
+      "observed_days": 1
+    },
+    {
+      "id": "676672661",
+      "name": "langchain-ai/langgraph",
+      "url": "https://github.com/langchain-ai/langgraph",
+      "stars": 45374,
+      "category": "AI 智能体",
+      "description": "Build resilient agents.",
+      "description_zh": "建设有弹性的剂.",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 55,
+      "observed_days": 1
+    },
+    {
+      "id": "343965132",
+      "name": "microsoft/ML-For-Beginners",
+      "url": "https://github.com/microsoft/ML-For-Beginners",
+      "stars": 92461,
+      "category": "机器学习",
+      "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
+      "description_zh": "12周、26个课、52个测验、经典机器学习",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 30,
+      "observed_days": 1
+    }
+  ],
+  "updates": []
+}
