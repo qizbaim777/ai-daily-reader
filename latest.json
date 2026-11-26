@@ -1,73 +1,81 @@
 {
   "schema": 2,
-  "date": "2026-11-25",
-  "digest_id": "fe57a790693722df",
+  "date": "2026-11-26",
+  "digest_id": "73a0c47ce0388861",
   "projects": [
     {
-      "id": "1453006141",
-      "name": "XinaTian/MROffice",
-      "url": "https://github.com/XinaTian/MROffice",
-      "stars": 3795,
-      "category": "AI 编程",
-      "description": "MR Office — the open-source editors of the AI office suite closest to Microsoft Office: documents, spreadsheets, presentations, PDF and code in the browser. Copilot in every editor edits real Word, Excel and PowerPoint files with you; an MCP server lets Claude, ChatGPT, Cursor and Codex create and edit them; embed it in your app with one line.",
-      "description_zh": "MR Office——最接近微软Office的AI办公套件的开源编辑器:浏览器中的文档,电子表格,演示文稿,PDF和代码. 每个编辑器中的副驾驶与您一起编辑真实的Word, Excel和PowerPoint文件; 一个MCP服务器让克洛德, ChatGPT, Cursor 和 Codex 创建并编辑它们; 用一行嵌入到您的应用程序中.",
+      "id": "1465322684",
+      "name": "sous-labs/songe",
+      "url": "https://github.com/sous-labs/songe",
+      "stars": 863,
+      "category": "大模型工具",
+      "description": "A training engine for your local model, using your idle compute",
+      "description_zh": "本地模型的训练引擎, 使用您的闲置计算",
       "reason": "近期创建，值得发现的新项目",
       "new_project": true,
-      "growth": 990,
+      "growth": 191,
       "observed_days": 1
     },
     {
-      "id": "1460452633",
-      "name": "pierridotite/mobile-agent-testers",
-      "url": "https://github.com/pierridotite/mobile-agent-testers",
-      "stars": 1849,
+      "id": "798201435",
+      "name": "unclecode/crawl4ai",
+      "url": "https://github.com/unclecode/crawl4ai",
+      "stars": 87909,
+      "category": "AI 智能体",
+      "description": "Official Crawl4AI Cloud: a hosted web scraping, extraction, and search API for AI agents. Free API key, 1,000 credits a month, no card. Fully open source: this repo is the Apache-2.0 crawler that powers it, and you can self-host it.",
+      "description_zh": "官方Crawl4AI Cloud:一个主机网络刮刮,提取,并搜索API的AI 智能体. 免费API密钥,每月1000个信用,无卡. Fully open source:这个repo是Apache-2.0的爬行器,赋予它力量,你可以自行主机.",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 147,
+      "observed_days": 1
+    },
+    {
+      "id": "642497346",
+      "name": "langfuse/langfuse",
+      "url": "https://github.com/langfuse/langfuse",
+      "stars": 37851,
+      "category": "AI 智能体",
+      "description": "🪢 Open source AI engineering platform: AI Gateway, agent observability, evals, and prompt/skill management, built on OpenTelemetry. One open platform for every AI call and every agent. Self-host or use Langfuse Cloud.",
+      "description_zh": "QQ开源AI工程平台:AI Gateway,代理可观察性,evals,以及即时/技能管理,建于OpenTeleometry上. 每一次人工智能通话和每名代理都有一个开放平台. 自主或用兰花云.",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 48,
+      "observed_days": 1
+    },
+    {
+      "id": "1255237198",
+      "name": "HarnessMD/munder-difflin",
+      "url": "https://github.com/HarnessMD/munder-difflin",
+      "stars": 9783,
       "category": "AI 编程",
-      "description": "20 AI testers on 20 different phones, in parallel, on GitHub's free runners: Claude Code agents on iOS Simulators and Android emulators that find broken flows, translation, layout and accessibility bugs",
-      "description_zh": "20个不同手机上的20个AI测试器,并行在GitHub的自由跑道上: Claude Code代理在iOS模拟器和Android模拟器上发现断流,翻译,布局和可访问性bug",
-      "reason": "近期创建，值得发现的新项目",
-      "new_project": true,
-      "growth": 380,
-      "observed_days": 1
-    },
-    {
-      "id": "979115477",
-      "name": "bytedance/deer-flow",
-      "url": "https://github.com/bytedance/deer-flow",
-      "stars": 85760,
-      "category": "AI 智能体",
-      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
-      "description_zh": "一种开源长视超天线(英语:Long-horizon SuperAgent)的牵引装置,可以研究,代码并创建. 在沙盒,记忆,工具,技能,子剂和消息网关的帮助下,它处理不同级别的任务,可能要花上几分钟到几小时.",
+      "description": "Coolest app to use agents, local, multi provider and open source grok bot alternative. Build custom worlds for your claude code and codex like agents",
+      "description_zh": "最酷的应用可以使用代理,本地,多供应商和开源grok bot替代. 为您的 Claude 代码和代码构建自定义世界, 如代理",
       "reason": "近期仍活跃，已获得较多关注",
       "new_project": false,
-      "growth": 56,
-      "observed_days": 1
-    },
-    {
-      "id": "676672661",
-      "name": "langchain-ai/langgraph",
-      "url": "https://github.com/langchain-ai/langgraph",
-      "stars": 45374,
-      "category": "AI 智能体",
-      "description": "Build resilient agents.",
-      "description_zh": "建设有弹性的剂.",
-      "reason": "近期仍活跃，已获得较多关注",
-      "new_project": false,
-      "growth": 55,
-      "observed_days": 1
-    },
-    {
-      "id": "343965132",
-      "name": "microsoft/ML-For-Beginners",
-      "url": "https://github.com/microsoft/ML-For-Beginners",
-      "stars": 92461,
-      "category": "机器学习",
-      "description": "12 weeks, 26 lessons, 52 quizzes, classic Machine Learning for all",
-      "description_zh": "12周、26个课、52个测验、经典机器学习",
-      "reason": "近期仍活跃，已获得较多关注",
-      "new_project": false,
-      "growth": 30,
+      "growth": 64,
       "observed_days": 1
     }
   ],
-  "updates": []
+  "updates": [
+    {
+      "id": "1234537369",
+      "name": "Gentleman-Programming/gentle-shell",
+      "url": "https://github.com/Gentleman-Programming/gentle-shell",
+      "stars": 2989,
+      "category": "AI 编程",
+      "description": "Gentle Shell is a Pi-native workspace for AI-assisted development, bringing parallel coding agents, live tasks, Git diffs, persistent memory, and permission controls into one terminal interface. Powered by Gentle AI and Organic Driven Development (ODD).",
+      "description_zh": "Gentle Shell是一个用于AI辅助开发的Pi-native工作空间,将平行编码代理,活任务,Git diffs,持续内存,以及权限控制带入一个终端接口. 由Gentle AI和有机驱动开发(ODD)提供动力.",
+      "reason": "发布大版本 v5.0.0",
+      "new_project": false,
+      "growth": null,
+      "observed_days": null,
+      "update": true,
+      "release_note_zh": "Gentle Shell v5.0.0 扩展桌面 RPC,使活的收缩压力明显可见,以及带有Gentle AI v5.0.0的船舶. npm包仍然是`gentle-pi'。 □ 证明 - ** 过去稳定:**`v4.9.0'-`ce64a9a708e50c0ca899c8023140e63f29f29393e1' - ** 释放目标:**`v5.0.0'-`be74d44cec564fae3c9cc66f392d1396fd432fe8' - ** 释放验证:** 运行向npm公布的45041909465,并附有安装器。 在npm使版本可见后,尝试2只重排发行,并验证了在Linux,macOS和Windows上的冷冻安装. - ** Pinted Gentle AI:**`v5.0.0'(4716b3cbc)",
+      "release": {
+        "tag": "v5.0.0",
+        "url": "https://github.com/Gentleman-Programming/gentle-shell/releases/tag/v5.0.0",
+        "published": "2026-11-22"
+      }
+    }
+  ]
 }
