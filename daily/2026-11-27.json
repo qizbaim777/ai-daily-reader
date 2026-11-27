@@ -1,0 +1,81 @@
+{
+  "schema": 2,
+  "date": "2026-11-27",
+  "digest_id": "f13bc630262c9290",
+  "projects": [
+    {
+      "id": "1471422729",
+      "name": "alesha-pro/llm.asm",
+      "url": "https://github.com/alesha-pro/llm.asm",
+      "stars": 1536,
+      "category": "大模型工具",
+      "description": "Qwen3-0.6B inference (12 KB), bare-metal bootable OS (22 KB), and from-scratch Mini-GPT trainer with live Braille TUI (32 KB) in 100% pure x86-64 NASM assembly. Zero C, zero libc, zero dependencies.",
+      "description_zh": "Quen3-0.6B推论(12 KB),裸金属可启动OS(22 KB),以及来自-scrach的迷你GPT教练器,在100%的纯x86-64 NASM装配中使用活盲文TUI(32 KB). 零C,零自由,零依赖关系.",
+      "reason": "近期创建，值得发现的新项目",
+      "new_project": true,
+      "growth": 1278,
+      "observed_days": 1
+    },
+    {
+      "id": "1456590729",
+      "name": "opensetlabs/openset-llm",
+      "url": "https://github.com/opensetlabs/openset-llm",
+      "stars": 1734,
+      "category": "大模型工具",
+      "description": "Fast local LLM inference on plain CPUs. No GPU, 8 GB of RAM. OpenAI-compatible server.",
+      "description_zh": "快速本地LLM对平原CPU的推论. 没有GPU,8GB的RAM. OpenAI 兼容服务器 。",
+      "reason": "近期创建，值得发现的新项目",
+      "new_project": true,
+      "growth": 889,
+      "observed_days": 1
+    },
+    {
+      "id": "1460661203",
+      "name": "yzsind/mydb",
+      "url": "https://github.com/yzsind/mydb",
+      "stars": 203,
+      "category": "AI 智能体",
+      "description": "A high-performance MySQL-compatible database for HTAP and AI agents  Mixed transactional and analytical workloads, with native AI retrieval.",
+      "description_zh": "一个高性能的MySQL兼容数据库,用于HTAP和AI智能体的混合交易和分析工作量,具有本地AI检索功能.",
+      "reason": "近期创建，值得发现的新项目",
+      "new_project": true,
+      "growth": 97,
+      "observed_days": 1
+    },
+    {
+      "id": "997390194",
+      "name": "BitterSecurity/Decepticon",
+      "url": "https://github.com/BitterSecurity/Decepticon",
+      "stars": 6836,
+      "category": "AI 智能体",
+      "description": "Autonomous Hacking Agent for Red Team",
+      "description_zh": "红队自动打包代理",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 96,
+      "observed_days": 1
+    }
+  ],
+  "updates": [
+    {
+      "id": "1134426800",
+      "name": "sickn33/agentic-awesome-skills",
+      "url": "https://github.com/sickn33/agentic-awesome-skills",
+      "stars": 50396,
+      "category": "AI 编程",
+      "description": "3,000+ reusable AI agent skills for Claude Code, Codex, Cursor and Gemini CLI. AAS Core adds local catalog discovery, agent-owned selection and plan preview. CLI, MCP and plugins.",
+      "description_zh": "3000+可重复使用的Claude Code,Codex,Cursor和双子座CLI的AI 智能体技能. AAS Core增加了本地目录发现,代理主选择和计划预览. CLI,MCP和插件.",
+      "reason": "发布大版本 v21.4.0",
+      "new_project": false,
+      "growth": null,
+      "observed_days": null,
+      "update": true,
+      "release_note_zh": "> **npm 不可用:** 此版本没有发布到npm; 软件包分发和完全发布对齐仍然不完整. ^ [214.0] - 2026-11-26 - \"视觉评论与团队工作流\" AAS增加了14个视觉审查,合作,研究和测试技能,使目录达到3,151个技能. 新技能 加入Murat Alpay的UI Diff来进行视觉PR评论, - 添加 Atelier UI 用于前端设计,电子邮件测试用于在电子邮件客户端预览 HTML ,以及发音Word用于听觉开发者术语. - 增加Nia团队智能体Bridge和O",
+      "release": {
+        "tag": "v21.4.0",
+        "url": "https://github.com/sickn33/agentic-awesome-skills/releases/tag/v21.4.0",
+        "published": "2026-11-26"
+      }
+    }
+  ]
+}
