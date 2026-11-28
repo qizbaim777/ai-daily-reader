@@ -1,0 +1,81 @@
+{
+  "schema": 2,
+  "date": "2026-11-28",
+  "digest_id": "07e747458e1bf04c",
+  "projects": [
+    {
+      "id": "835975784",
+      "name": "MODSetter/SurfSense",
+      "url": "https://github.com/MODSetter/SurfSense",
+      "stars": 17155,
+      "category": "知识库 / RAG",
+      "description": "Air-gapped, private AI for confidential documents. Open-source NotebookLM alternative that runs on your computer. Join our Discord: https://discord.gg/ejRNvftDp9",
+      "description_zh": "秘密文件的私人情报 在您的计算机上运行的开源NotebookLM替代程序. 加入我们的Discord:https://discord.gg/ejRNvftDp9",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 150,
+      "observed_days": 1
+    },
+    {
+      "id": "1293600453",
+      "name": "TencentCloud/Octop",
+      "url": "https://github.com/TencentCloud/Octop",
+      "stars": 12596,
+      "category": "AI 智能体",
+      "description": "A smarter, self-hosted AI assistant — multi-user, multi-agent.",
+      "description_zh": "一个更聪明,自我托管的AI助手——多用户,多代理.",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 70,
+      "observed_days": 1
+    },
+    {
+      "id": "1327088798",
+      "name": "deeplethe/utopia",
+      "url": "https://github.com/deeplethe/utopia",
+      "stars": 8741,
+      "category": "知识库 / RAG",
+      "description": "World's first open-source enterprise world model.",
+      "description_zh": "世界首个开源企业世界模式.",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 75,
+      "observed_days": 1
+    },
+    {
+      "id": "656099147",
+      "name": "mem0ai/mem0",
+      "url": "https://github.com/mem0ai/mem0",
+      "stars": 69557,
+      "category": "AI 智能体",
+      "description": "The Memory Layer for AI Agents - Drop-in memory infrastructure for AI agents and apps. Context that persists. Built for production.",
+      "description_zh": "AI 智能体的内存层 - AI 智能体和apps的滴入内存基础设施. 情况依然存在。 为生产而建.",
+      "reason": "近期仍活跃，已获得较多关注",
+      "new_project": false,
+      "growth": 43,
+      "observed_days": 1
+    }
+  ],
+  "updates": [
+    {
+      "id": "1168900408",
+      "name": "Gentleman-Programming/gentle-ai",
+      "url": "https://github.com/Gentleman-Programming/gentle-ai",
+      "stars": 9619,
+      "category": "AI 编程",
+      "description": "Gentle-AI configures the AI coding agents you already use: Claude Code, Cursor, OpenCode, Codex, Pi, and more. Choose persistent memory, Organic-Driven Development, curated skills, MCP servers, personas, and optional bounded review. Open source, no agent lock-in.",
+      "description_zh": "Gentle-AI 配置您已经使用的 AI 编码代理: Claude Code, Cursor, OpenCode, Codex, Pi 等 。 选择持续的内存,有机驱动开发,编程技能,MCP服务器,人物,以及可选的边框审查. 开源,无代理锁定.",
+      "reason": "发布大版本 v5.1.0",
+      "new_project": false,
+      "growth": null,
+      "observed_days": null,
+      "update": true,
+      "release_note_zh": "Gentle AI v5.1.0是一个小发行. 它将审查供应商合同从`1.6.0'更新为`1.7.0',修理OpenCode 2.4.2的同步审查,只有在所有18条路由中没有经过授权的步骤才能关闭,并且将SignPath CI固定装置保留在Windows用户安装的Go模块之外。 □ 证明 - ** 以前的稳定:**`v5.0.0 ' −`4716b3cbca158c35c3b316dbd517f54e5f240f97' - ** 释放目标:** `v5.1.0 ' `d64b1c1baa22cf34d3a8da29050d57103a07cf6a' - ** 发布工作流程:** 运行45966342688 - ** 核查:** 飞行前、释放和核实工作都成功。 - ****",
+      "release": {
+        "tag": "v5.1.0",
+        "url": "https://github.com/Gentleman-Programming/gentle-ai/releases/tag/v5.1.0",
+        "published": "2026-11-27"
+      }
+    }
+  ]
+}
